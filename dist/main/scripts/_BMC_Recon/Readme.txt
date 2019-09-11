@@ -1,0 +1,6 @@
+Copy 'tmp' folder to root 
+
+DO NOT DOWNLOAD OTHERS VERSION OF SYSCFG.EXE 
+
+THANKS
+ALEX.

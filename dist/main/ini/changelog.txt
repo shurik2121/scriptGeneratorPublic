@@ -1,0 +1,67 @@
+NOV 8, 2018 
+- added loggin information 
+
+NOV 11, 2018
+- added log file \log\deployer.log
+- added \pdf\*.pdf folder with explanation how to ? 
+- code have been deployed fully
+	- added icons to deployment + rc file with detials information to exe file
+
+NOV 12, 2018
+- fixed auto-refresh button  
+- added global ini file \ini\configuration.ini 
+	- contain all the global variables that can be change by the user
+	- global variable adjust to INI variables
+
+NOV 15, 2018 
+- added multi-thread option to run different powershell codes in multithread tasks no more hangs
+- added autorefresh to the widgetTree (if user copy a folder or files TreeWidget list will be auto update accordingly)
+- changed size to MB
+
+DEC 19, 2018
+- added option to ini file to filter view of the treeWidget all files or just cmd,ps1 scripts
+
+DEC 26, 2018
+
+-TreeWidget:
+    - removed columns date,size,type (could be reversed if needed)
+    - fixed script selection, focus on the selected item
+    - fixed clicking "browse" and cancel button, the list of scripts is exist
+    - treeWidget window is resized and reduced
+    - added option to go through folders in treeWidget with "doubleClick"
+        - to go back to the previous folder or different location -> click on "Browse" button
+    - added option to sort treeWidget by clicking on header "Name" will sort ABC/ZYX
+
+- Location and Path:
+    - location of scripts are moved to %app root% \scripts
+    - location of fgc_list are moved too %app root% \scripts\fgc_list.txt
+
+
+- INI folder:
+    - autorefresh is working
+    - added variables to change scripts location and fgc_list.txt location
+    - changed scripts suffix to "script_files = ps1,cmd,bat,BAT" instead of writing each different script
+
+- Buttons:
+    - added buttons to each section fgc/mgmt/3rack to select groups individually
+    - fixed select "ALL"
+
+DEC 27, 2018
+
+-TreeWidget:
+    - added option to run a script with "double click" on treeWidget
+    - fixed a bug that allow running scripts without servers selections
+    - tooltip added to each button
+
+DEC 30, 2018
+- added pop up window to notify user if some servers are offline
+
+JUN 02, 2019
+- Files
+    - changed fgc_list.txt to online.txt
+    - added scripts\offline.txt in addition for pop windows from previous update(DEC 30, 2018)
+        - in INI\configuration.ini there is an option to change those files name
+- Buttons
+    - added button to add new servers **InProgress**
+        - server list can be added to configuration.ini file
+        - can be deleted servers if not needed

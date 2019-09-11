@@ -1,0 +1,158 @@
+# Copyright (c) 1993-2009 Microsoft Corp.	
+#	
+# This is a sample HOSTS file used by Microsoft TCP/IP for Windows.	
+#	
+# This file contains the mappings of IP addresses to host names. Each	
+# entry should be kept on an individual line. The IP address should	
+# be placed in the first column followed by the corresponding host name.	
+# The IP address and the host name should be separated by at least one	
+# space.	
+#	
+# Additionally, comments (such as these) may be inserted on individual	
+# lines or following the machine name denoted by a '#' symbol.	
+#	
+# For example:	
+#	
+#      102.54.94.97     rhino.acme.com          # source server	
+#       38.25.63.10     x.acme.com              # x client host	
+	
+# localhost name resolution is handled within DNS itself.	
+#	127.0.0.1       localhost
+#	::1             localhost
+	
+127.0.0.1       localhost
+192.168.10.1	Switch1
+192.168.10.2	Switch2
+192.168.10.3	Switch3
+192.168.10.4	Switch4
+192.168.10.5	Switch5
+192.168.10.11	PDU1
+192.168.10.12	PDU2
+192.168.10.13	PDU3
+192.168.10.14	PDU4
+192.168.10.15	PDU5
+192.168.10.16	PDU6
+192.168.10.17	PDU7
+192.168.10.18	PDU8
+192.168.10.21	KVM
+192.168.10.25	RoomAlert
+192.168.10.27	Show
+192.168.10.40	MainKVM
+192.168.10.41	Main2KVM
+192.168.10.42	Main3KVM
+192.168.10.43	Main4KVM
+192.168.10.44	Main5KVM
+192.168.10.45	Main6KVM
+192.168.10.46	Main7KVM
+192.168.10.47	Main8KVM
+192.168.10.48	Main9KVM
+192.168.10.50	Main
+192.168.10.51	Main2
+192.168.10.52	Main3
+192.168.10.53	Main4
+192.168.10.54	Main5
+192.168.10.55	Main6
+192.168.10.56	Main7
+192.168.10.57	Main8
+192.168.10.58	Main9
+192.168.10.61	Nav
+192.168.10.62	Navspare
+192.168.10.63	Output
+192.168.10.64	Outputspare
+192.168.10.65	Sync1
+192.168.10.66	Sync2
+192.168.10.67	Gateway
+192.168.10.68	Gateway2
+192.168.10.69	CG
+192.168.10.70	Encoder
+192.168.10.80	Paintserver
+192.168.10.81	Painter1
+192.168.10.82	Painter2
+192.168.10.83	Painter3
+192.168.10.84	Painter4
+192.168.10.101	Fgc01
+192.168.10.102	Fgc02
+192.168.10.103	Fgc03
+192.168.10.104	Fgc04
+192.168.10.105	Fgc05
+192.168.10.106	Fgc06
+192.168.10.107	Fgc07
+192.168.10.108	Fgc08
+192.168.10.109	Fgc09
+192.168.10.110	Fgc10
+192.168.10.111	Fgc11
+192.168.10.112	Fgc12
+192.168.10.113	Fgc13
+192.168.10.114	Fgc14
+192.168.10.115	Fgc15
+192.168.10.116	Fgc16
+192.168.10.117	Fgc17
+192.168.10.118	Fgc18
+192.168.10.119	Fgc19
+192.168.10.120	Fgc20
+192.168.10.121	Fgc21
+192.168.10.122	Fgc22
+192.168.10.123	Fgc23
+192.168.10.124	Fgc24
+192.168.10.125	Fgc25
+192.168.10.126	Fgc26
+192.168.10.127	Fgc27
+192.168.10.128	Fgc28
+192.168.10.129	Fgc29
+192.168.10.130	Fgc30
+192.168.10.131	Fgc31
+192.168.10.132	Fgc32
+192.168.10.133	Fgc33
+192.168.10.134	Fgc34
+192.168.10.135	Fgc35
+192.168.10.136	Fgc36
+192.168.10.137	Fgc37
+192.168.10.138	Fgc38
+192.168.10.141	FGCSpare1
+192.168.10.142	FGCSpare2
+192.168.10.143	FGCSpare3
+192.168.10.144	FGCSpare4
+192.168.10.201	Proc01
+192.168.10.202	Proc02
+192.168.10.203	Proc03
+192.168.10.204	Proc04
+192.168.10.205	Proc05
+192.168.10.206	Proc06
+192.168.10.207	Proc07
+192.168.10.208	Proc08
+192.168.10.209	Proc09
+192.168.10.210	Proc10
+192.168.10.211	Proc11
+192.168.10.212	Proc12
+192.168.10.213	Proc13
+192.168.10.214	Proc14
+192.168.10.215	Proc15
+192.168.10.216	Proc16
+192.168.10.217	Proc17
+192.168.10.218	Proc18
+192.168.10.219	Proc19
+192.168.10.220	Proc20
+192.168.10.221	Proc21
+192.168.10.222	Proc22
+192.168.10.223	Proc23
+192.168.10.224	Proc24
+192.168.10.225	Proc25
+192.168.10.226	Proc26
+192.168.10.227	Proc27
+192.168.10.228	Proc28
+192.168.10.229	Proc29
+192.168.10.230	Proc30
+192.168.10.231	Proc31
+192.168.10.232	Proc32
+192.168.10.233	Proc33
+192.168.10.234	Proc34
+192.168.10.235	Proc35
+192.168.10.236	Proc36
+192.168.10.237	Proc37
+192.168.10.238	Proc38
+192.168.10.241	Procspare1
+192.168.10.242	Procspare2
+192.168.10.243	Procspare3
+192.168.10.244	Procspare4
+		
+127.0.0.1 activate.adobe.com	

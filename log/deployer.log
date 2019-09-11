@@ -1,0 +1,1270 @@
+INFO 2018-07-25 12:17:46,445 - >>> Deployer is started
+INFO 2018-07-25 12:17:59,034 - >>> notepad++ opened a file \\10.13.130.231\dropbox\IT\Scripts\!pack\del_net_profile.cmd
+INFO 2018-07-25 12:18:08,354 - >>> seleted file which are not cmd or powershell
+INFO 2018-07-25 12:18:30,018 - >>> application is closed by user
+INFO 2018-07-25 12:19:21,908 - >>> Deployer is started
+INFO 2018-07-25 12:19:34,632 - >>> notepad++ opened a file \\10.13.130.231\dropbox\IT\Scripts\!pack\kvm_serial.cmd
+INFO 2018-07-25 12:19:39,340 - >>> selected cmd file \\10.13.130.231\dropbox\IT\Scripts\!pack\kvm_serial.cmd
+INFO 2018-07-25 12:19:39,355 - cmd file \\10.13.130.231\dropbox\IT\Scripts\!pack\kvm_serial.cmd is completed
+INFO 2018-07-25 12:19:44,954 - >>> notepad++ opened a file \\10.13.130.231\dropbox\IT\Scripts\!pack\kvm_serial.cmd
+INFO 2018-07-25 12:20:00,141 - >>> Deployer is closed
+DEBUG 2018-07-25 12:22:27,444 - UI version is 4.0
+DEBUG 2018-07-25 12:22:27,445 - uiname is Form
+DEBUG 2018-07-25 12:22:27,445 - toplevel widget is MyApp
+DEBUG 2018-07-25 12:22:27,445 - setting property geometry
+DEBUG 2018-07-25 12:22:27,445 - setting property windowTitle
+DEBUG 2018-07-25 12:22:27,445 - push MyApp Form
+DEBUG 2018-07-25 12:22:27,445 - push QGridLayout gridLayout
+DEBUG 2018-07-25 12:22:27,447 - setting property value
+DEBUG 2018-07-25 12:22:27,448 - push QProgressBar progressBar
+DEBUG 2018-07-25 12:22:27,448 - pop widget QProgressBar progressBar
+DEBUG 2018-07-25 12:22:27,448 - new topwidget <__main__.MyApp object at 0x00000000052F2438>
+DEBUG 2018-07-25 12:22:27,448 - push QHBoxLayout horizontalLayout_11
+DEBUG 2018-07-25 12:22:27,448 - setting property text
+DEBUG 2018-07-25 12:22:27,449 - push QPushButton btnRun
+DEBUG 2018-07-25 12:22:27,449 - pop widget QPushButton btnRun
+DEBUG 2018-07-25 12:22:27,449 - new topwidget <__main__.MyApp object at 0x00000000052F2438>
+DEBUG 2018-07-25 12:22:27,449 - setting property text
+DEBUG 2018-07-25 12:22:27,449 - push QPushButton btnEdit
+DEBUG 2018-07-25 12:22:27,449 - pop widget QPushButton btnEdit
+DEBUG 2018-07-25 12:22:27,449 - new topwidget <__main__.MyApp object at 0x00000000052F2438>
+DEBUG 2018-07-25 12:22:27,449 - setting property text
+DEBUG 2018-07-25 12:22:27,449 - push QPushButton btnBrowse
+DEBUG 2018-07-25 12:22:27,449 - pop widget QPushButton btnBrowse
+DEBUG 2018-07-25 12:22:27,449 - new topwidget <__main__.MyApp object at 0x00000000052F2438>
+DEBUG 2018-07-25 12:22:27,450 - pop layout QHBoxLayout horizontalLayout_11
+DEBUG 2018-07-25 12:22:27,450 - setting property orientation
+DEBUG 2018-07-25 12:22:27,450 - push QFrame line_5
+DEBUG 2018-07-25 12:22:27,450 - pop widget QFrame line_5
+DEBUG 2018-07-25 12:22:27,450 - new topwidget <__main__.MyApp object at 0x00000000052F2438>
+DEBUG 2018-07-25 12:22:27,450 - push QHBoxLayout horizontalLayout
+DEBUG 2018-07-25 12:22:27,451 - setting property text
+DEBUG 2018-07-25 12:22:27,451 - push QPushButton btnAll
+DEBUG 2018-07-25 12:22:27,451 - pop widget QPushButton btnAll
+DEBUG 2018-07-25 12:22:27,451 - new topwidget <__main__.MyApp object at 0x00000000052F2438>
+DEBUG 2018-07-25 12:22:27,451 - setting property text
+DEBUG 2018-07-25 12:22:27,451 - push QPushButton btnNone
+DEBUG 2018-07-25 12:22:27,451 - pop widget QPushButton btnNone
+DEBUG 2018-07-25 12:22:27,452 - new topwidget <__main__.MyApp object at 0x00000000052F2438>
+DEBUG 2018-07-25 12:22:27,452 - setting property enabled
+DEBUG 2018-07-25 12:22:27,452 - setting property text
+DEBUG 2018-07-25 12:22:27,452 - push QPushButton btnInvert
+DEBUG 2018-07-25 12:22:27,452 - pop widget QPushButton btnInvert
+DEBUG 2018-07-25 12:22:27,452 - new topwidget <__main__.MyApp object at 0x00000000052F2438>
+DEBUG 2018-07-25 12:22:27,452 - setting property enabled
+DEBUG 2018-07-25 12:22:27,452 - setting property text
+DEBUG 2018-07-25 12:22:27,452 - push QPushButton btnRefresh
+DEBUG 2018-07-25 12:22:27,452 - pop widget QPushButton btnRefresh
+DEBUG 2018-07-25 12:22:27,452 - new topwidget <__main__.MyApp object at 0x00000000052F2438>
+DEBUG 2018-07-25 12:22:27,453 - setting property text
+DEBUG 2018-07-25 12:22:27,453 - push QPushButton btnClose
+DEBUG 2018-07-25 12:22:27,453 - pop widget QPushButton btnClose
+DEBUG 2018-07-25 12:22:27,453 - new topwidget <__main__.MyApp object at 0x00000000052F2438>
+DEBUG 2018-07-25 12:22:27,453 - pop layout QHBoxLayout horizontalLayout
+DEBUG 2018-07-25 12:22:27,551 - push QTreeWidget treeWidget
+DEBUG 2018-07-25 12:22:27,588 - pop widget QTreeWidget treeWidget
+DEBUG 2018-07-25 12:22:27,588 - new topwidget <__main__.MyApp object at 0x00000000052F2438>
+DEBUG 2018-07-25 12:22:27,589 - setting property title
+DEBUG 2018-07-25 12:22:27,589 - push QGroupBox gbServers
+DEBUG 2018-07-25 12:22:27,589 - push QGridLayout gridLayout_2
+DEBUG 2018-07-25 12:22:27,589 - push QHBoxLayout horizontalLayout_9
+DEBUG 2018-07-25 12:22:27,589 - setting property text
+DEBUG 2018-07-25 12:22:27,589 - push QCheckBox Sync2
+DEBUG 2018-07-25 12:22:27,589 - pop widget QCheckBox Sync2
+DEBUG 2018-07-25 12:22:27,590 - new topwidget <PyQt5.QtWidgets.QGroupBox object at 0x0000000005305798>
+DEBUG 2018-07-25 12:22:27,590 - setting property text
+DEBUG 2018-07-25 12:22:27,590 - push QCheckBox Sync1
+DEBUG 2018-07-25 12:22:27,590 - pop widget QCheckBox Sync1
+DEBUG 2018-07-25 12:22:27,590 - new topwidget <PyQt5.QtWidgets.QGroupBox object at 0x0000000005305798>
+DEBUG 2018-07-25 12:22:27,590 - setting property text
+DEBUG 2018-07-25 12:22:27,590 - push QCheckBox Gateway
+DEBUG 2018-07-25 12:22:27,590 - pop widget QCheckBox Gateway
+DEBUG 2018-07-25 12:22:27,590 - new topwidget <PyQt5.QtWidgets.QGroupBox object at 0x0000000005305798>
+DEBUG 2018-07-25 12:22:27,590 - setting property text
+DEBUG 2018-07-25 12:22:27,590 - push QCheckBox Output
+DEBUG 2018-07-25 12:22:27,591 - pop widget QCheckBox Output
+DEBUG 2018-07-25 12:22:27,591 - new topwidget <PyQt5.QtWidgets.QGroupBox object at 0x0000000005305798>
+DEBUG 2018-07-25 12:22:27,591 - setting property text
+DEBUG 2018-07-25 12:22:27,591 - push QCheckBox Outputspare
+DEBUG 2018-07-25 12:22:27,591 - pop widget QCheckBox Outputspare
+DEBUG 2018-07-25 12:22:27,591 - new topwidget <PyQt5.QtWidgets.QGroupBox object at 0x0000000005305798>
+DEBUG 2018-07-25 12:22:27,591 - setting property font
+DEBUG 2018-07-25 12:22:27,591 - setting property text
+DEBUG 2018-07-25 12:22:27,592 - push QCheckBox Nav
+DEBUG 2018-07-25 12:22:27,592 - pop widget QCheckBox Nav
+DEBUG 2018-07-25 12:22:27,592 - new topwidget <PyQt5.QtWidgets.QGroupBox object at 0x0000000005305798>
+DEBUG 2018-07-25 12:22:27,592 - setting property font
+DEBUG 2018-07-25 12:22:27,592 - setting property text
+DEBUG 2018-07-25 12:22:27,592 - push QCheckBox Main
+DEBUG 2018-07-25 12:22:27,592 - pop widget QCheckBox Main
+DEBUG 2018-07-25 12:22:27,592 - new topwidget <PyQt5.QtWidgets.QGroupBox object at 0x0000000005305798>
+DEBUG 2018-07-25 12:22:27,592 - pop layout QHBoxLayout horizontalLayout_9
+DEBUG 2018-07-25 12:22:27,592 - push QHBoxLayout horizontalLayout_3
+DEBUG 2018-07-25 12:22:27,593 - setting property text
+DEBUG 2018-07-25 12:22:27,593 - push QCheckBox FGC07
+DEBUG 2018-07-25 12:22:27,593 - pop widget QCheckBox FGC07
+DEBUG 2018-07-25 12:22:27,593 - new topwidget <PyQt5.QtWidgets.QGroupBox object at 0x0000000005305798>
+DEBUG 2018-07-25 12:22:27,593 - setting property text
+DEBUG 2018-07-25 12:22:27,593 - push QCheckBox FGC08
+DEBUG 2018-07-25 12:22:27,593 - pop widget QCheckBox FGC08
+DEBUG 2018-07-25 12:22:27,594 - new topwidget <PyQt5.QtWidgets.QGroupBox object at 0x0000000005305798>
+DEBUG 2018-07-25 12:22:27,594 - setting property text
+DEBUG 2018-07-25 12:22:27,594 - push QCheckBox FGC09
+DEBUG 2018-07-25 12:22:27,594 - pop widget QCheckBox FGC09
+DEBUG 2018-07-25 12:22:27,594 - new topwidget <PyQt5.QtWidgets.QGroupBox object at 0x0000000005305798>
+DEBUG 2018-07-25 12:22:27,594 - setting property text
+DEBUG 2018-07-25 12:22:27,594 - push QCheckBox FGC10
+DEBUG 2018-07-25 12:22:27,594 - pop widget QCheckBox FGC10
+DEBUG 2018-07-25 12:22:27,594 - new topwidget <PyQt5.QtWidgets.QGroupBox object at 0x0000000005305798>
+DEBUG 2018-07-25 12:22:27,594 - setting property text
+DEBUG 2018-07-25 12:22:27,595 - push QCheckBox FGC11
+DEBUG 2018-07-25 12:22:27,595 - pop widget QCheckBox FGC11
+DEBUG 2018-07-25 12:22:27,595 - new topwidget <PyQt5.QtWidgets.QGroupBox object at 0x0000000005305798>
+DEBUG 2018-07-25 12:22:27,595 - setting property text
+DEBUG 2018-07-25 12:22:27,595 - push QCheckBox FGC12
+DEBUG 2018-07-25 12:22:27,595 - pop widget QCheckBox FGC12
+DEBUG 2018-07-25 12:22:27,595 - new topwidget <PyQt5.QtWidgets.QGroupBox object at 0x0000000005305798>
+DEBUG 2018-07-25 12:22:27,595 - pop layout QHBoxLayout horizontalLayout_3
+DEBUG 2018-07-25 12:22:27,595 - push QHBoxLayout horizontalLayout_5
+DEBUG 2018-07-25 12:22:27,595 - setting property text
+DEBUG 2018-07-25 12:22:27,596 - push QCheckBox FGC19
+DEBUG 2018-07-25 12:22:27,596 - pop widget QCheckBox FGC19
+DEBUG 2018-07-25 12:22:27,596 - new topwidget <PyQt5.QtWidgets.QGroupBox object at 0x0000000005305798>
+DEBUG 2018-07-25 12:22:27,596 - setting property text
+DEBUG 2018-07-25 12:22:27,596 - push QCheckBox FGC20
+DEBUG 2018-07-25 12:22:27,596 - pop widget QCheckBox FGC20
+DEBUG 2018-07-25 12:22:27,596 - new topwidget <PyQt5.QtWidgets.QGroupBox object at 0x0000000005305798>
+DEBUG 2018-07-25 12:22:27,596 - setting property text
+DEBUG 2018-07-25 12:22:27,597 - push QCheckBox FGC21
+DEBUG 2018-07-25 12:22:27,597 - pop widget QCheckBox FGC21
+DEBUG 2018-07-25 12:22:27,597 - new topwidget <PyQt5.QtWidgets.QGroupBox object at 0x0000000005305798>
+DEBUG 2018-07-25 12:22:27,597 - setting property text
+DEBUG 2018-07-25 12:22:27,597 - push QCheckBox FGC22
+DEBUG 2018-07-25 12:22:27,597 - pop widget QCheckBox FGC22
+DEBUG 2018-07-25 12:22:27,597 - new topwidget <PyQt5.QtWidgets.QGroupBox object at 0x0000000005305798>
+DEBUG 2018-07-25 12:22:27,598 - setting property text
+DEBUG 2018-07-25 12:22:27,598 - push QCheckBox FGC23
+DEBUG 2018-07-25 12:22:27,598 - pop widget QCheckBox FGC23
+DEBUG 2018-07-25 12:22:27,598 - new topwidget <PyQt5.QtWidgets.QGroupBox object at 0x0000000005305798>
+DEBUG 2018-07-25 12:22:27,598 - setting property text
+DEBUG 2018-07-25 12:22:27,598 - push QCheckBox FGC24
+DEBUG 2018-07-25 12:22:27,598 - pop widget QCheckBox FGC24
+DEBUG 2018-07-25 12:22:27,599 - new topwidget <PyQt5.QtWidgets.QGroupBox object at 0x0000000005305798>
+DEBUG 2018-07-25 12:22:27,599 - pop layout QHBoxLayout horizontalLayout_5
+DEBUG 2018-07-25 12:22:27,599 - push QHBoxLayout horizontalLayout_10
+DEBUG 2018-07-25 12:22:27,599 - setting property enabled
+DEBUG 2018-07-25 12:22:27,599 - setting property text
+DEBUG 2018-07-25 12:22:27,599 - push QCheckBox render01
+DEBUG 2018-07-25 12:22:27,599 - pop widget QCheckBox render01
+DEBUG 2018-07-25 12:22:27,599 - new topwidget <PyQt5.QtWidgets.QGroupBox object at 0x0000000005305798>
+DEBUG 2018-07-25 12:22:27,599 - setting property enabled
+DEBUG 2018-07-25 12:22:27,599 - setting property text
+DEBUG 2018-07-25 12:22:27,600 - push QCheckBox render02
+DEBUG 2018-07-25 12:22:27,600 - pop widget QCheckBox render02
+DEBUG 2018-07-25 12:22:27,600 - new topwidget <PyQt5.QtWidgets.QGroupBox object at 0x0000000005305798>
+DEBUG 2018-07-25 12:22:27,600 - setting property enabled
+DEBUG 2018-07-25 12:22:27,600 - setting property text
+DEBUG 2018-07-25 12:22:27,600 - push QCheckBox recon01
+DEBUG 2018-07-25 12:22:27,600 - pop widget QCheckBox recon01
+DEBUG 2018-07-25 12:22:27,600 - new topwidget <PyQt5.QtWidgets.QGroupBox object at 0x0000000005305798>
+DEBUG 2018-07-25 12:22:27,600 - setting property enabled
+DEBUG 2018-07-25 12:22:27,600 - setting property text
+DEBUG 2018-07-25 12:22:27,600 - push QCheckBox recon02
+DEBUG 2018-07-25 12:22:27,600 - pop widget QCheckBox recon02
+DEBUG 2018-07-25 12:22:27,601 - new topwidget <PyQt5.QtWidgets.QGroupBox object at 0x0000000005305798>
+DEBUG 2018-07-25 12:22:27,601 - setting property text
+DEBUG 2018-07-25 12:22:27,601 - push QCheckBox recon03
+DEBUG 2018-07-25 12:22:27,601 - pop widget QCheckBox recon03
+DEBUG 2018-07-25 12:22:27,601 - new topwidget <PyQt5.QtWidgets.QGroupBox object at 0x0000000005305798>
+DEBUG 2018-07-25 12:22:27,601 - setting property text
+DEBUG 2018-07-25 12:22:27,601 - push QCheckBox recon04
+DEBUG 2018-07-25 12:22:27,601 - pop widget QCheckBox recon04
+DEBUG 2018-07-25 12:22:27,601 - new topwidget <PyQt5.QtWidgets.QGroupBox object at 0x0000000005305798>
+DEBUG 2018-07-25 12:22:27,601 - setting property enabled
+DEBUG 2018-07-25 12:22:27,601 - setting property text
+DEBUG 2018-07-25 12:22:27,602 - push QCheckBox recon05
+DEBUG 2018-07-25 12:22:27,602 - pop widget QCheckBox recon05
+DEBUG 2018-07-25 12:22:27,602 - new topwidget <PyQt5.QtWidgets.QGroupBox object at 0x0000000005305798>
+DEBUG 2018-07-25 12:22:27,602 - pop layout QHBoxLayout horizontalLayout_10
+DEBUG 2018-07-25 12:22:27,602 - push QHBoxLayout horizontalLayout_2
+DEBUG 2018-07-25 12:22:27,602 - setting property text
+DEBUG 2018-07-25 12:22:27,602 - push QCheckBox FGC01
+DEBUG 2018-07-25 12:22:27,602 - pop widget QCheckBox FGC01
+DEBUG 2018-07-25 12:22:27,602 - new topwidget <PyQt5.QtWidgets.QGroupBox object at 0x0000000005305798>
+DEBUG 2018-07-25 12:22:27,602 - setting property text
+DEBUG 2018-07-25 12:22:27,603 - push QCheckBox FGC02
+DEBUG 2018-07-25 12:22:27,603 - pop widget QCheckBox FGC02
+DEBUG 2018-07-25 12:22:27,603 - new topwidget <PyQt5.QtWidgets.QGroupBox object at 0x0000000005305798>
+DEBUG 2018-07-25 12:22:27,603 - setting property text
+DEBUG 2018-07-25 12:22:27,603 - push QCheckBox FGC03
+DEBUG 2018-07-25 12:22:27,603 - pop widget QCheckBox FGC03
+DEBUG 2018-07-25 12:22:27,603 - new topwidget <PyQt5.QtWidgets.QGroupBox object at 0x0000000005305798>
+DEBUG 2018-07-25 12:22:27,603 - setting property text
+DEBUG 2018-07-25 12:22:27,603 - push QCheckBox FGC04
+DEBUG 2018-07-25 12:22:27,603 - pop widget QCheckBox FGC04
+DEBUG 2018-07-25 12:22:27,604 - new topwidget <PyQt5.QtWidgets.QGroupBox object at 0x0000000005305798>
+DEBUG 2018-07-25 12:22:27,604 - setting property text
+DEBUG 2018-07-25 12:22:27,604 - push QCheckBox FGC05
+DEBUG 2018-07-25 12:22:27,604 - pop widget QCheckBox FGC05
+DEBUG 2018-07-25 12:22:27,604 - new topwidget <PyQt5.QtWidgets.QGroupBox object at 0x0000000005305798>
+DEBUG 2018-07-25 12:22:27,604 - setting property text
+DEBUG 2018-07-25 12:22:27,604 - push QCheckBox FGC06
+DEBUG 2018-07-25 12:22:27,604 - pop widget QCheckBox FGC06
+DEBUG 2018-07-25 12:22:27,604 - new topwidget <PyQt5.QtWidgets.QGroupBox object at 0x0000000005305798>
+DEBUG 2018-07-25 12:22:27,604 - pop layout QHBoxLayout horizontalLayout_2
+DEBUG 2018-07-25 12:22:27,605 - setting property orientation
+DEBUG 2018-07-25 12:22:27,605 - push QFrame line_2
+DEBUG 2018-07-25 12:22:27,605 - pop widget QFrame line_2
+DEBUG 2018-07-25 12:22:27,605 - new topwidget <PyQt5.QtWidgets.QGroupBox object at 0x0000000005305798>
+DEBUG 2018-07-25 12:22:27,605 - push QHBoxLayout horizontalLayout_6
+DEBUG 2018-07-25 12:22:27,605 - setting property text
+DEBUG 2018-07-25 12:22:27,605 - push QCheckBox FGC31
+DEBUG 2018-07-25 12:22:27,605 - pop widget QCheckBox FGC31
+DEBUG 2018-07-25 12:22:27,605 - new topwidget <PyQt5.QtWidgets.QGroupBox object at 0x0000000005305798>
+DEBUG 2018-07-25 12:22:27,606 - setting property text
+DEBUG 2018-07-25 12:22:27,606 - push QCheckBox FGC32
+DEBUG 2018-07-25 12:22:27,606 - pop widget QCheckBox FGC32
+DEBUG 2018-07-25 12:22:27,606 - new topwidget <PyQt5.QtWidgets.QGroupBox object at 0x0000000005305798>
+DEBUG 2018-07-25 12:22:27,606 - setting property text
+DEBUG 2018-07-25 12:22:27,606 - push QCheckBox FGC33
+DEBUG 2018-07-25 12:22:27,606 - pop widget QCheckBox FGC33
+DEBUG 2018-07-25 12:22:27,606 - new topwidget <PyQt5.QtWidgets.QGroupBox object at 0x0000000005305798>
+DEBUG 2018-07-25 12:22:27,606 - setting property text
+DEBUG 2018-07-25 12:22:27,606 - push QCheckBox FGC34
+DEBUG 2018-07-25 12:22:27,607 - pop widget QCheckBox FGC34
+DEBUG 2018-07-25 12:22:27,607 - new topwidget <PyQt5.QtWidgets.QGroupBox object at 0x0000000005305798>
+DEBUG 2018-07-25 12:22:27,607 - setting property text
+DEBUG 2018-07-25 12:22:27,607 - push QCheckBox FGC35
+DEBUG 2018-07-25 12:22:27,607 - pop widget QCheckBox FGC35
+DEBUG 2018-07-25 12:22:27,607 - new topwidget <PyQt5.QtWidgets.QGroupBox object at 0x0000000005305798>
+DEBUG 2018-07-25 12:22:27,607 - setting property text
+DEBUG 2018-07-25 12:22:27,607 - push QCheckBox FGC36
+DEBUG 2018-07-25 12:22:27,607 - pop widget QCheckBox FGC36
+DEBUG 2018-07-25 12:22:27,607 - new topwidget <PyQt5.QtWidgets.QGroupBox object at 0x0000000005305798>
+DEBUG 2018-07-25 12:22:27,607 - pop layout QHBoxLayout horizontalLayout_6
+DEBUG 2018-07-25 12:22:27,608 - setting property orientation
+DEBUG 2018-07-25 12:22:27,608 - push QFrame line_4
+DEBUG 2018-07-25 12:22:27,608 - pop widget QFrame line_4
+DEBUG 2018-07-25 12:22:27,608 - new topwidget <PyQt5.QtWidgets.QGroupBox object at 0x0000000005305798>
+DEBUG 2018-07-25 12:22:27,608 - push QHBoxLayout horizontalLayout_7
+DEBUG 2018-07-25 12:22:27,608 - setting property text
+DEBUG 2018-07-25 12:22:27,608 - push QCheckBox FGC37
+DEBUG 2018-07-25 12:22:27,608 - pop widget QCheckBox FGC37
+DEBUG 2018-07-25 12:22:27,608 - new topwidget <PyQt5.QtWidgets.QGroupBox object at 0x0000000005305798>
+DEBUG 2018-07-25 12:22:27,609 - setting property text
+DEBUG 2018-07-25 12:22:27,609 - push QCheckBox FGC38
+DEBUG 2018-07-25 12:22:27,609 - pop widget QCheckBox FGC38
+DEBUG 2018-07-25 12:22:27,609 - new topwidget <PyQt5.QtWidgets.QGroupBox object at 0x0000000005305798>
+DEBUG 2018-07-25 12:22:27,609 - setting property orientation
+DEBUG 2018-07-25 12:22:27,609 - push QFrame line
+DEBUG 2018-07-25 12:22:27,609 - pop widget QFrame line
+DEBUG 2018-07-25 12:22:27,609 - new topwidget <PyQt5.QtWidgets.QGroupBox object at 0x0000000005305798>
+DEBUG 2018-07-25 12:22:27,609 - setting property text
+DEBUG 2018-07-25 12:22:27,609 - push QCheckBox FGCSPARE1
+DEBUG 2018-07-25 12:22:27,609 - pop widget QCheckBox FGCSPARE1
+DEBUG 2018-07-25 12:22:27,610 - new topwidget <PyQt5.QtWidgets.QGroupBox object at 0x0000000005305798>
+DEBUG 2018-07-25 12:22:27,610 - setting property text
+DEBUG 2018-07-25 12:22:27,610 - push QCheckBox FGCSPARE2
+DEBUG 2018-07-25 12:22:27,610 - pop widget QCheckBox FGCSPARE2
+DEBUG 2018-07-25 12:22:27,610 - new topwidget <PyQt5.QtWidgets.QGroupBox object at 0x0000000005305798>
+DEBUG 2018-07-25 12:22:27,610 - setting property text
+DEBUG 2018-07-25 12:22:27,610 - push QCheckBox FGCSPARE3
+DEBUG 2018-07-25 12:22:27,610 - pop widget QCheckBox FGCSPARE3
+DEBUG 2018-07-25 12:22:27,610 - new topwidget <PyQt5.QtWidgets.QGroupBox object at 0x0000000005305798>
+DEBUG 2018-07-25 12:22:27,610 - setting property text
+DEBUG 2018-07-25 12:22:27,610 - push QCheckBox FGCSPARE4
+DEBUG 2018-07-25 12:22:27,611 - pop widget QCheckBox FGCSPARE4
+DEBUG 2018-07-25 12:22:27,611 - new topwidget <PyQt5.QtWidgets.QGroupBox object at 0x0000000005305798>
+DEBUG 2018-07-25 12:22:27,611 - pop layout QHBoxLayout horizontalLayout_7
+DEBUG 2018-07-25 12:22:27,611 - push QHBoxLayout horizontalLayout_8
+DEBUG 2018-07-25 12:22:27,611 - setting property text
+DEBUG 2018-07-25 12:22:27,612 - push QCheckBox FGC25
+DEBUG 2018-07-25 12:22:27,612 - pop widget QCheckBox FGC25
+DEBUG 2018-07-25 12:22:27,612 - new topwidget <PyQt5.QtWidgets.QGroupBox object at 0x0000000005305798>
+DEBUG 2018-07-25 12:22:27,612 - setting property text
+DEBUG 2018-07-25 12:22:27,612 - push QCheckBox FGC26
+DEBUG 2018-07-25 12:22:27,612 - pop widget QCheckBox FGC26
+DEBUG 2018-07-25 12:22:27,612 - new topwidget <PyQt5.QtWidgets.QGroupBox object at 0x0000000005305798>
+DEBUG 2018-07-25 12:22:27,613 - setting property text
+DEBUG 2018-07-25 12:22:27,613 - push QCheckBox FGC27
+DEBUG 2018-07-25 12:22:27,613 - pop widget QCheckBox FGC27
+DEBUG 2018-07-25 12:22:27,613 - new topwidget <PyQt5.QtWidgets.QGroupBox object at 0x0000000005305798>
+DEBUG 2018-07-25 12:22:27,613 - setting property text
+DEBUG 2018-07-25 12:22:27,613 - push QCheckBox FGC28
+DEBUG 2018-07-25 12:22:27,614 - pop widget QCheckBox FGC28
+DEBUG 2018-07-25 12:22:27,614 - new topwidget <PyQt5.QtWidgets.QGroupBox object at 0x0000000005305798>
+DEBUG 2018-07-25 12:22:27,615 - setting property text
+DEBUG 2018-07-25 12:22:27,615 - push QCheckBox FGC29
+DEBUG 2018-07-25 12:22:27,615 - pop widget QCheckBox FGC29
+DEBUG 2018-07-25 12:22:27,615 - new topwidget <PyQt5.QtWidgets.QGroupBox object at 0x0000000005305798>
+DEBUG 2018-07-25 12:22:27,616 - setting property text
+DEBUG 2018-07-25 12:22:27,616 - push QCheckBox FGC30
+DEBUG 2018-07-25 12:22:27,616 - pop widget QCheckBox FGC30
+DEBUG 2018-07-25 12:22:27,616 - new topwidget <PyQt5.QtWidgets.QGroupBox object at 0x0000000005305798>
+DEBUG 2018-07-25 12:22:27,616 - pop layout QHBoxLayout horizontalLayout_8
+DEBUG 2018-07-25 12:22:27,617 - push QHBoxLayout horizontalLayout_4
+DEBUG 2018-07-25 12:22:27,617 - setting property text
+DEBUG 2018-07-25 12:22:27,617 - push QCheckBox FGC13
+DEBUG 2018-07-25 12:22:27,617 - pop widget QCheckBox FGC13
+DEBUG 2018-07-25 12:22:27,617 - new topwidget <PyQt5.QtWidgets.QGroupBox object at 0x0000000005305798>
+DEBUG 2018-07-25 12:22:27,617 - setting property text
+DEBUG 2018-07-25 12:22:27,618 - push QCheckBox FGC14
+DEBUG 2018-07-25 12:22:27,618 - pop widget QCheckBox FGC14
+DEBUG 2018-07-25 12:22:27,618 - new topwidget <PyQt5.QtWidgets.QGroupBox object at 0x0000000005305798>
+DEBUG 2018-07-25 12:22:27,618 - setting property text
+DEBUG 2018-07-25 12:22:27,618 - push QCheckBox FGC15
+DEBUG 2018-07-25 12:22:27,619 - pop widget QCheckBox FGC15
+DEBUG 2018-07-25 12:22:27,619 - new topwidget <PyQt5.QtWidgets.QGroupBox object at 0x0000000005305798>
+DEBUG 2018-07-25 12:22:27,619 - setting property text
+DEBUG 2018-07-25 12:22:27,620 - push QCheckBox FGC16
+DEBUG 2018-07-25 12:22:27,620 - pop widget QCheckBox FGC16
+DEBUG 2018-07-25 12:22:27,620 - new topwidget <PyQt5.QtWidgets.QGroupBox object at 0x0000000005305798>
+DEBUG 2018-07-25 12:22:27,620 - setting property text
+DEBUG 2018-07-25 12:22:27,620 - push QCheckBox FGC17
+DEBUG 2018-07-25 12:22:27,620 - pop widget QCheckBox FGC17
+DEBUG 2018-07-25 12:22:27,620 - new topwidget <PyQt5.QtWidgets.QGroupBox object at 0x0000000005305798>
+DEBUG 2018-07-25 12:22:27,620 - setting property text
+DEBUG 2018-07-25 12:22:27,621 - push QCheckBox FGC18
+DEBUG 2018-07-25 12:22:27,621 - pop widget QCheckBox FGC18
+DEBUG 2018-07-25 12:22:27,621 - new topwidget <PyQt5.QtWidgets.QGroupBox object at 0x0000000005305798>
+DEBUG 2018-07-25 12:22:27,621 - pop layout QHBoxLayout horizontalLayout_4
+DEBUG 2018-07-25 12:22:27,621 - push QHBoxLayout horizontalLayout_22
+DEBUG 2018-07-25 12:22:27,621 - setting property enabled
+DEBUG 2018-07-25 12:22:27,621 - setting property text
+DEBUG 2018-07-25 12:22:27,621 - push QCheckBox recon06
+DEBUG 2018-07-25 12:22:27,621 - pop widget QCheckBox recon06
+DEBUG 2018-07-25 12:22:27,622 - new topwidget <PyQt5.QtWidgets.QGroupBox object at 0x0000000005305798>
+DEBUG 2018-07-25 12:22:27,622 - setting property enabled
+DEBUG 2018-07-25 12:22:27,622 - setting property text
+DEBUG 2018-07-25 12:22:27,622 - push QCheckBox recon07
+DEBUG 2018-07-25 12:22:27,622 - pop widget QCheckBox recon07
+DEBUG 2018-07-25 12:22:27,622 - new topwidget <PyQt5.QtWidgets.QGroupBox object at 0x0000000005305798>
+DEBUG 2018-07-25 12:22:27,622 - setting property text
+DEBUG 2018-07-25 12:22:27,622 - push QCheckBox recon08
+DEBUG 2018-07-25 12:22:27,622 - pop widget QCheckBox recon08
+DEBUG 2018-07-25 12:22:27,622 - new topwidget <PyQt5.QtWidgets.QGroupBox object at 0x0000000005305798>
+DEBUG 2018-07-25 12:22:27,622 - setting property enabled
+DEBUG 2018-07-25 12:22:27,623 - setting property text
+DEBUG 2018-07-25 12:22:27,623 - push QCheckBox recon09
+DEBUG 2018-07-25 12:22:27,623 - pop widget QCheckBox recon09
+DEBUG 2018-07-25 12:22:27,623 - new topwidget <PyQt5.QtWidgets.QGroupBox object at 0x0000000005305798>
+DEBUG 2018-07-25 12:22:27,623 - setting property enabled
+DEBUG 2018-07-25 12:22:27,623 - setting property text
+DEBUG 2018-07-25 12:22:27,624 - push QCheckBox recon10
+DEBUG 2018-07-25 12:22:27,624 - pop widget QCheckBox recon10
+DEBUG 2018-07-25 12:22:27,624 - new topwidget <PyQt5.QtWidgets.QGroupBox object at 0x0000000005305798>
+DEBUG 2018-07-25 12:22:27,624 - setting property text
+DEBUG 2018-07-25 12:22:27,624 - push QCheckBox recon11
+DEBUG 2018-07-25 12:22:27,624 - pop widget QCheckBox recon11
+DEBUG 2018-07-25 12:22:27,624 - new topwidget <PyQt5.QtWidgets.QGroupBox object at 0x0000000005305798>
+DEBUG 2018-07-25 12:22:27,625 - setting property enabled
+DEBUG 2018-07-25 12:22:27,625 - setting property text
+DEBUG 2018-07-25 12:22:27,625 - push QCheckBox recon12
+DEBUG 2018-07-25 12:22:27,625 - pop widget QCheckBox recon12
+DEBUG 2018-07-25 12:22:27,625 - new topwidget <PyQt5.QtWidgets.QGroupBox object at 0x0000000005305798>
+DEBUG 2018-07-25 12:22:27,625 - pop layout QHBoxLayout horizontalLayout_22
+DEBUG 2018-07-25 12:22:27,625 - pop layout QGridLayout gridLayout_2
+DEBUG 2018-07-25 12:22:27,626 - pop widget QGroupBox gbServers
+DEBUG 2018-07-25 12:22:27,626 - new topwidget <__main__.MyApp object at 0x00000000052F2438>
+DEBUG 2018-07-25 12:22:27,626 - pop layout QGridLayout gridLayout
+DEBUG 2018-07-25 12:22:27,626 - pop widget MyApp Form
+DEBUG 2018-07-25 12:22:27,626 - new topwidget None
+DEBUG 2018-07-25 12:22:28,217 - >>> Default directory initialized
+INFO 2018-07-25 12:22:28,218 - >>> Deployer is started
+INFO 2018-07-25 12:22:43,803 - >>> notepad++ opened a file \\10.13.130.231\dropbox\IT\Scripts\!pack\fgc_list_res.txt
+DEBUG 2018-07-25 12:22:48,428 - >>> the fgc_list.txt file is generated
+INFO 2018-07-25 12:22:49,557 - >>> selected file are not cmd or powershell
+INFO 2018-07-25 12:39:13,660 - >>> Deployer is started
+INFO 2018-08-06 10:32:57,853 - >>> Deployer is started
+INFO 2018-08-07 11:28:15,870 - >>> Deployer is started
+INFO 2018-08-07 16:04:58,304 - >>> Deployer is started
+INFO 2018-08-23 10:46:09,001 - >>> Deployer is started
+INFO 2018-08-23 10:48:47,615 - >>> notepad++ opened a file C:\tmp\you got this folder when replaydc is not accesible
+INFO 2018-08-23 10:53:59,646 - >>> Deployer is closed
+INFO 2018-08-23 11:11:33,978 - >>> Deployer is started
+INFO 2018-08-23 14:27:26,695 - >>> Deployer is started
+INFO 2018-09-06 12:40:22,728 - >>> Deployer is started
+INFO 2018-09-20 10:58:25,260 - >>> Deployer is started
+INFO 2018-09-20 11:20:16,270 - >>> Deployer is started
+INFO 2018-09-20 11:51:25,180 - >>> Deployer is started
+INFO 2018-10-02 17:25:09,797 - >>> Deployer is started
+INFO 2018-10-17 14:21:49,282 - >>> Deployer is started
+INFO 2018-10-17 14:23:30,563 - >>> notepad++ opened a file C:\tmp\you got this folder when replaydc is not accesible
+INFO 2018-10-17 14:23:56,875 - >>> notepad++ opened a file C:\tmp\scripts\fgc2_list.txt
+INFO 2018-10-17 14:24:00,354 - >>> notepad++ opened a file C:\tmp\scripts\fgc22_list.txt
+INFO 2018-10-17 14:24:04,435 - >>> notepad++ opened a file C:\tmp\scripts\deployer.log
+INFO 2018-10-18 13:37:58,052 - >>> Deployer is started
+INFO 2018-10-18 14:28:05,713 - >>> Deployer is closed
+INFO 2018-11-11 10:07:16,711 - >>> Deployer is started
+INFO 2018-11-11 10:41:02,013 - >>> Deployer is started
+INFO 2018-11-11 10:41:15,721 - >>> Deployer is closed
+INFO 2018-11-11 10:42:06,387 - >>> Deployer is started
+INFO 2018-11-11 10:42:39,064 - >>> Deployer is started
+INFO 2018-11-11 10:42:56,048 - >>> Deployer is started
+INFO 2018-11-11 10:43:23,856 - >>> Deployer is started
+INFO 2018-11-11 10:43:32,877 - >>> Deployer is started
+INFO 2018-11-11 10:45:11,724 - >>> Deployer is started
+INFO 2018-11-11 10:50:02,497 - >>> Deployer is started
+INFO 2018-11-11 10:51:04,225 - >>> Deployer is started
+INFO 2018-11-11 10:51:36,233 - >>> Deployer is started
+INFO 2018-11-11 10:51:45,489 - >>> Deployer is started
+INFO 2018-11-11 10:53:32,502 - >>> Deployer is started
+INFO 2018-11-11 10:55:05,507 - >>> selected cmd file C:\tmp\scripts\mkdir.bat
+INFO 2018-11-11 10:55:05,516 - >>> completed C:\tmp\scripts\mkdir.bat
+INFO 2018-11-11 10:56:24,670 - >>> Deployer is started
+INFO 2018-11-11 10:56:42,145 - >>> selected cmd file C:\tmp\scripts\mkdir.bat
+INFO 2018-11-11 10:56:42,155 - >>> completed C:\tmp\scripts\mkdir.bat
+INFO 2018-11-11 11:52:50,231 - >>> Deployer is started
+INFO 2018-11-11 11:53:16,024 - >>> selected cmd file C:\tmp\scripts\mkdir.bat
+INFO 2018-11-11 11:53:16,036 - >>> completed C:\tmp\scripts\mkdir.bat
+INFO 2018-11-11 11:59:14,463 - >>> Deployer is started
+INFO 2018-11-11 11:59:28,422 - >>> notepad++ opened a file \\10.13.130.231\dropbox\IT\Scripts\conn_test.ps1
+INFO 2018-11-11 11:59:48,676 - >>> selected powershell file \\10.13.130.231\dropbox\IT\Scripts\CPU_speed.ps1
+INFO 2018-11-11 12:16:53,136 - >>> Deployer is started
+INFO 2018-11-11 12:17:41,386 - >>> Deployer is closed
+INFO 2018-11-11 12:17:46,071 - >>> Deployer is started
+INFO 2018-11-11 12:17:59,366 - >>> selected cmd file C:\tmp\scripts\mkdir.bat
+INFO 2018-11-11 12:17:59,375 - >>> completed C:\tmp\scripts\mkdir.bat
+INFO 2018-11-11 12:19:38,917 - >>> Deployer is started
+INFO 2018-11-11 12:19:57,418 - >>> selected cmd file C:\tmp\scripts\mkdir.bat
+INFO 2018-11-11 12:19:57,429 - >>> completed C:\tmp\scripts\mkdir.bat
+INFO 2018-11-11 12:20:23,172 - >>> Deployer is closed
+INFO 2018-11-11 12:33:45,924 - >>> Deployer is started
+INFO 2018-11-11 12:36:22,966 - >>> Deployer is started
+INFO 2018-11-11 12:39:51,996 - >>> Deployer is started
+INFO 2018-11-11 12:40:19,775 - >>> selected cmd file C:\tmp\scripts\mkdir.bat
+INFO 2018-11-11 12:40:19,786 - >>> completed C:\tmp\scripts\mkdir.bat
+INFO 2018-11-11 12:51:48,093 - >>> Deployer is started
+INFO 2018-11-11 15:53:57,895 - >>> Deployer is started
+INFO 2018-11-11 17:08:29,937 - >>> Deployer is started
+INFO 2018-11-11 17:09:17,275 - >>> notepad++ opened a file \\10.13.130.231\dropbox\IT\Scripts\get_resource_events.ps1
+INFO 2018-11-11 17:09:35,247 - >>> notepad++ opened a file \\10.13.130.231\dropbox\IT\Scripts\del_net_profile.cmd
+INFO 2018-11-14 12:25:44,311 - >>> Deployer is started
+INFO 2018-11-14 16:15:17,391 - >>> Deployer is started
+INFO 2018-11-14 16:16:15,003 - >>> Deployer is started
+INFO 2018-11-14 16:16:28,993 - >>> selected cmd file C:\ins\createFolder.bat
+INFO 2018-11-14 16:18:27,974 - >>> Deployer is started
+INFO 2018-11-14 16:18:37,489 - >>> selected cmd file C:\ins\createFolder.bat
+INFO 2018-11-14 16:19:03,392 - >>> Deployer is started
+INFO 2018-11-14 16:19:24,793 - >>> selected cmd file C:\ins\createFolder.bat
+INFO 2018-11-14 16:20:42,621 - >>> Deployer is started
+INFO 2018-11-14 16:20:57,691 - >>> selected cmd file C:\ins\createFolder.bat
+INFO 2018-11-14 16:24:35,392 - >>> Deployer is started
+INFO 2018-11-14 16:24:49,225 - >>> selected cmd file C:\ins\createFolder.bat
+INFO 2018-11-14 16:24:49,240 - >>> completed C:\ins\createFolder.bat
+INFO 2018-11-14 16:25:04,419 - >>> Deployer is closed
+INFO 2018-11-14 16:32:44,628 - >>> Deployer is started
+INFO 2018-11-14 16:33:09,660 - >>> selected powershell file C:\ins\OS.ps1
+INFO 2018-11-14 16:36:20,975 - >>> Deployer is started
+INFO 2018-11-14 16:36:33,239 - >>> selected powershell file C:\ins\OS.ps1
+INFO 2018-11-14 16:36:39,223 - >>> completed C:\ins\OS.ps1
+INFO 2018-11-14 16:37:19,998 - >>> Deployer is started
+INFO 2018-11-14 16:37:33,055 - >>> selected powershell file C:\ins\OS.ps1
+INFO 2018-11-14 16:37:38,561 - >>> completed C:\ins\OS.ps1
+INFO 2018-11-14 16:37:58,643 - >>> Deployer is started
+INFO 2018-11-14 16:38:09,671 - >>> selected powershell file C:\ins\OS.ps1
+INFO 2018-11-14 16:38:15,423 - >>> completed C:\ins\OS.ps1
+INFO 2018-11-14 16:39:02,037 - >>> Deployer is started
+INFO 2018-11-14 16:39:11,351 - >>> selected powershell file C:\ins\OS.ps1
+INFO 2018-11-14 16:39:18,306 - >>> completed C:\ins\OS.ps1
+INFO 2018-11-14 16:41:08,053 - >>> Deployer is started
+INFO 2018-11-14 16:41:17,346 - >>> selected powershell file C:\ins\OS.ps1
+INFO 2018-11-14 16:41:18,469 - >>> completed C:\ins\OS.ps1
+INFO 2018-11-14 17:25:40,979 - >>> Deployer is started
+INFO 2018-11-14 17:25:56,121 - >>> selected powershell file C:\ins\OS.ps1
+INFO 2018-11-14 17:27:15,918 - >>> Deployer is started
+INFO 2018-11-14 17:27:27,054 - >>> selected powershell file C:\ins\OS.ps1
+INFO 2018-11-14 17:27:40,754 - >>> Deployer is started
+INFO 2018-11-14 17:27:52,044 - >>> selected powershell file C:\ins\OS.ps1
+INFO 2018-11-14 17:27:52,044 - >>> completed C:\ins\OS.ps1
+INFO 2018-11-14 17:27:58,645 - >>> selected powershell file C:\ins\Time.ps1
+INFO 2018-11-14 17:27:58,645 - >>> completed C:\ins\Time.ps1
+INFO 2018-11-14 17:28:01,033 - >>> selected powershell file C:\ins\OS.ps1
+INFO 2018-11-14 17:28:01,033 - >>> completed C:\ins\OS.ps1
+INFO 2018-11-14 17:28:28,539 - >>> Deployer is started
+INFO 2018-11-14 17:28:38,564 - >>> selected powershell file C:\ins\OS.ps1
+INFO 2018-11-14 17:28:38,564 - >>> completed C:\ins\OS.ps1
+INFO 2018-11-14 17:28:42,117 - >>> selected powershell file C:\ins\Time.ps1
+INFO 2018-11-14 17:28:42,117 - >>> completed C:\ins\Time.ps1
+INFO 2018-11-14 17:30:44,713 - >>> Deployer is started
+INFO 2018-11-14 17:30:53,498 - >>> selected powershell file C:\ins\OS.ps1
+INFO 2018-11-14 17:31:09,071 - >>> Deployer is started
+INFO 2018-11-14 17:31:19,512 - >>> selected powershell file C:\ins\OS.ps1
+INFO 2018-11-14 17:33:31,548 - >>> Deployer is started
+INFO 2018-11-14 17:33:40,317 - >>> selected powershell file C:\ins\OS.ps1
+INFO 2018-11-14 17:33:40,317 - >>> completed C:\ins\OS.ps1
+INFO 2018-11-14 17:34:44,133 - >>> Deployer is started
+INFO 2018-11-14 17:34:54,118 - >>> selected powershell file C:\ins\OS.ps1
+INFO 2018-11-14 17:34:54,118 - >>> completed C:\ins\OS.ps1
+INFO 2018-11-14 17:35:14,874 - >>> Deployer is started
+INFO 2018-11-14 17:35:24,809 - >>> selected powershell file C:\ins\OS.ps1
+INFO 2018-11-14 17:35:24,809 - >>> completed C:\ins\OS.ps1
+INFO 2018-11-14 17:36:08,943 - >>> Deployer is started
+INFO 2018-11-14 17:36:20,813 - >>> selected powershell file C:\ins\OS.ps1
+INFO 2018-11-14 17:36:20,813 - >>> completed C:\ins\OS.ps1
+INFO 2018-11-14 17:38:18,488 - >>> Deployer is started
+INFO 2018-11-14 17:38:27,576 - >>> selected powershell file C:\ins\OS.ps1
+INFO 2018-11-14 17:38:27,576 - >>> completed C:\ins\OS.ps1
+INFO 2018-11-14 17:38:42,478 - >>> selected powershell file C:\ins\Time.ps1
+INFO 2018-11-14 17:38:42,478 - >>> completed C:\ins\Time.ps1
+INFO 2018-11-14 17:38:48,511 - >>> selected powershell file C:\ins\OS.ps1
+INFO 2018-11-14 17:38:48,511 - >>> completed C:\ins\OS.ps1
+INFO 2018-11-14 17:38:50,245 - >>> selected powershell file C:\ins\Time.ps1
+INFO 2018-11-14 17:38:50,245 - >>> completed C:\ins\Time.ps1
+INFO 2018-11-14 17:42:58,556 - >>> Deployer is started
+INFO 2018-11-14 17:43:08,485 - >>> selected powershell file C:\ins\Time.ps1
+INFO 2018-11-14 17:43:08,485 - >>> completed C:\ins\Time.ps1
+INFO 2018-11-14 17:43:14,787 - >>> selected powershell file C:\ins\OS.ps1
+INFO 2018-11-14 17:43:14,787 - >>> completed C:\ins\OS.ps1
+INFO 2018-11-14 17:44:24,414 - >>> Deployer is started
+INFO 2018-11-14 17:44:36,099 - >>> selected powershell file C:\ins\Time.ps1
+INFO 2018-11-14 17:44:36,099 - >>> completed C:\ins\Time.ps1
+INFO 2018-11-14 17:44:49,049 - >>> selected powershell file C:\ins\OS.ps1
+INFO 2018-11-14 17:44:49,049 - >>> completed C:\ins\OS.ps1
+INFO 2018-11-14 17:52:00,048 - >>> Deployer is started
+INFO 2018-11-14 17:52:14,821 - >>> selected powershell file C:\tmp\ab.ps1
+INFO 2018-11-14 17:52:14,821 - >>> completed C:\tmp\ab.ps1
+INFO 2018-11-14 17:52:18,468 - >>> selected powershell file C:\tmp\cd.ps1
+INFO 2018-11-14 17:52:18,483 - >>> completed C:\tmp\cd.ps1
+INFO 2018-11-15 09:10:14,369 - >>> Deployer is closed
+INFO 2018-11-15 09:57:30,082 - >>> Deployer is started
+INFO 2018-11-15 11:09:54,184 - >>> Deployer is started
+INFO 2018-11-15 11:10:12,838 - >>> selected powershell file C:\ins\OS.ps1
+INFO 2018-11-15 11:10:12,839 - >>> completed C:\ins\OS.ps1
+INFO 2018-11-15 11:10:19,584 - >>> selected powershell file C:\ins\Time.ps1
+INFO 2018-11-15 11:10:19,584 - >>> completed C:\ins\Time.ps1
+INFO 2018-11-15 11:11:14,888 - >>> Deployer is started
+INFO 2018-11-15 11:11:37,958 - >>> Deployer is closed
+INFO 2018-11-15 11:11:44,714 - >>> Deployer is started
+INFO 2018-11-15 11:11:55,323 - >>> selected powershell file C:\tmp\cd.ps1
+INFO 2018-11-15 11:11:55,323 - >>> completed C:\tmp\cd.ps1
+INFO 2018-11-15 11:12:02,298 - >>> selected powershell file C:\tmp\ab.ps1
+INFO 2018-11-15 11:12:02,298 - >>> completed C:\tmp\ab.ps1
+INFO 2018-11-15 11:13:09,611 - >>> Deployer is started
+INFO 2018-11-15 11:13:41,939 - >>> selected powershell file C:\tmp\ab.ps1
+INFO 2018-11-15 11:13:41,939 - >>> completed C:\tmp\ab.ps1
+INFO 2018-11-15 11:28:27,856 - >>> Deployer is started
+INFO 2018-11-15 15:06:44,327 - >>> Deployer is started
+INFO 2018-11-15 15:12:24,066 - >>> Deployer is started
+INFO 2018-11-15 15:25:27,135 - >>> Deployer is started
+INFO 2018-11-15 15:26:39,265 - >>> Deployer is started
+INFO 2018-11-15 15:34:43,431 - >>> Deployer is closed
+INFO 2018-11-15 15:34:54,938 - >>> Deployer is started
+INFO 2018-11-15 15:46:06,226 - >>> Deployer is started
+INFO 2018-11-15 15:46:40,854 - >>> Deployer is started
+INFO 2018-11-15 15:48:28,971 - >>> Deployer is started
+INFO 2018-11-15 15:51:17,949 - >>> Deployer is started
+INFO 2018-11-15 15:52:41,961 - >>> Deployer is started
+INFO 2018-11-15 15:59:20,787 - >>> Deployer is started
+INFO 2018-11-15 15:59:47,111 - >>> Deployer is closed
+INFO 2018-11-15 16:00:46,283 - >>> Deployer is started
+INFO 2018-11-15 16:00:57,957 - >>> Deployer is closed
+INFO 2018-11-15 16:03:20,511 - >>> Deployer is started
+INFO 2018-11-15 16:19:24,774 - >>> Deployer is started
+INFO 2018-11-15 16:29:43,143 - >>> notepad++ opened a file \\10.13.130.231\dropbox\IT\Scripts\proc_list.txt
+INFO 2018-11-15 17:03:15,920 - >>> Deployer is closed
+INFO 2018-11-15 17:05:08,679 - >>> Deployer is started
+INFO 2018-11-18 13:17:37,953 - >>> Deployer is started
+INFO 2018-11-25 16:48:06,421 - >>> Deployer is started
+INFO 2018-11-25 16:54:07,998 - >>> Deployer is started
+INFO 2018-11-25 16:54:09,756 - >>> Deployer is started
+INFO 2018-11-25 16:55:18,816 - >>> Deployer is started
+INFO 2018-11-25 16:55:44,753 - >>> Deployer is started
+INFO 2018-11-26 14:05:48,516 - >>> Deployer is started
+INFO 2018-11-29 16:07:17,998 - >>> Deployer is started
+INFO 2018-12-02 09:31:23,863 - >>> Deployer is started
+INFO 2018-12-03 17:38:14,978 - >>> Deployer is started
+INFO 2018-12-03 17:38:34,140 - >>> Deployer is closed
+INFO 2018-12-03 17:38:56,606 - >>> Deployer is started
+INFO 2018-12-03 17:39:07,849 - >>> Deployer is closed
+INFO 2018-12-04 10:57:41,501 - >>> Deployer is started
+INFO 2018-12-04 10:57:50,093 - >>> Deployer is started
+INFO 2018-12-04 10:59:12,342 - >>> Deployer is started
+INFO 2018-12-05 10:14:10,202 - >>> Deployer is started
+INFO 2018-12-05 12:05:36,727 - >>> Deployer is started
+INFO 2018-12-05 15:23:21,295 - >>> Deployer is started
+INFO 2018-12-05 15:23:49,917 - >>> Deployer is closed
+INFO 2018-12-19 16:47:18,421 - >>> Deployer is started
+INFO 2018-12-19 16:48:05,953 - >>> Deployer is started
+INFO 2018-12-19 16:51:40,007 - >>> Deployer is started
+INFO 2018-12-19 16:58:19,829 - >>> Deployer is started
+INFO 2018-12-19 16:58:55,627 - >>> Deployer is started
+INFO 2018-12-19 17:01:16,951 - >>> Deployer is started
+INFO 2018-12-19 17:01:27,143 - >>> Deployer is closed
+INFO 2018-12-19 17:02:55,433 - >>> Deployer is started
+INFO 2018-12-19 17:04:18,814 - >>> Deployer is started
+INFO 2018-12-19 17:04:48,265 - >>> Deployer is started
+INFO 2018-12-19 17:05:32,121 - >>> Deployer is started
+INFO 2018-12-19 17:07:49,815 - >>> Deployer is started
+INFO 2018-12-23 11:16:44,787 - >>> Deployer is started
+INFO 2018-12-23 12:06:48,503 - >>> Deployer is started
+INFO 2018-12-23 12:07:16,674 - >>> Deployer is closed
+INFO 2018-12-23 12:07:21,919 - >>> Deployer is started
+INFO 2018-12-23 12:09:20,804 - >>> Deployer is closed
+INFO 2018-12-23 14:01:27,559 - >>> Deployer is started
+INFO 2018-12-23 14:18:21,870 - >>> Deployer is closed
+INFO 2018-12-23 14:18:26,286 - >>> Deployer is started
+INFO 2018-12-23 14:39:08,894 - >>> Deployer is started
+INFO 2018-12-23 14:45:57,118 - >>> Deployer is started
+INFO 2018-12-23 14:50:45,934 - >>> Deployer is started
+INFO 2018-12-23 14:52:49,306 - >>> Deployer is started
+INFO 2018-12-23 14:53:28,041 - >>> Deployer is started
+INFO 2018-12-23 14:53:59,792 - >>> Deployer is started
+INFO 2018-12-23 14:54:40,747 - >>> Deployer is started
+INFO 2018-12-23 14:55:20,893 - >>> Deployer is started
+INFO 2018-12-23 14:56:14,342 - >>> Deployer is started
+INFO 2018-12-23 14:57:07,118 - >>> Deployer is started
+INFO 2018-12-23 14:58:07,236 - >>> Deployer is started
+INFO 2018-12-23 14:58:35,385 - >>> Deployer is started
+INFO 2018-12-23 14:59:05,355 - >>> Deployer is started
+INFO 2018-12-23 14:59:33,009 - >>> Deployer is started
+INFO 2018-12-23 15:00:40,398 - >>> Deployer is started
+INFO 2018-12-23 15:02:24,657 - >>> Deployer is started
+INFO 2018-12-23 15:02:39,261 - >>> Deployer is closed
+INFO 2018-12-23 15:03:00,163 - >>> Deployer is started
+INFO 2018-12-23 15:03:12,424 - >>> Deployer is closed
+INFO 2018-12-23 15:04:59,750 - >>> Deployer is started
+INFO 2018-12-23 15:05:34,135 - >>> Deployer is started
+INFO 2018-12-23 15:05:58,051 - >>> Deployer is started
+INFO 2018-12-23 15:06:31,755 - >>> Deployer is started
+INFO 2018-12-23 15:06:43,531 - >>> Deployer is started
+INFO 2018-12-23 15:13:05,228 - >>> Deployer is started
+INFO 2018-12-23 15:13:31,313 - >>> Deployer is started
+INFO 2018-12-23 15:13:52,139 - >>> Deployer is started
+INFO 2018-12-23 15:14:12,285 - >>> Deployer is started
+INFO 2018-12-23 15:14:45,721 - >>> Deployer is started
+INFO 2018-12-23 15:15:20,350 - >>> Deployer is started
+INFO 2018-12-23 15:15:32,430 - >>> Deployer is started
+INFO 2018-12-23 15:15:56,899 - >>> Deployer is started
+INFO 2018-12-23 15:16:16,767 - >>> Deployer is started
+INFO 2018-12-23 15:16:32,341 - >>> Deployer is started
+INFO 2018-12-23 15:16:49,474 - >>> Deployer is started
+INFO 2018-12-23 15:16:59,942 - >>> Deployer is started
+INFO 2018-12-23 15:17:26,510 - >>> Deployer is started
+INFO 2018-12-23 15:19:19,668 - >>> Deployer is started
+INFO 2018-12-23 15:19:54,024 - >>> Deployer is started
+INFO 2018-12-23 15:20:49,924 - >>> Deployer is started
+INFO 2018-12-23 15:21:24,716 - >>> Deployer is started
+INFO 2018-12-23 15:22:45,921 - >>> Deployer is started
+INFO 2018-12-23 15:54:26,264 - >>> Deployer is started
+INFO 2018-12-23 15:56:16,965 - >>> Deployer is started
+INFO 2018-12-23 15:56:57,731 - >>> Deployer is started
+INFO 2018-12-23 15:57:11,290 - >>> Deployer is started
+INFO 2018-12-23 15:59:29,598 - >>> Deployer is started
+INFO 2018-12-23 16:00:16,602 - >>> Deployer is started
+INFO 2018-12-23 16:00:54,683 - >>> Deployer is started
+INFO 2018-12-23 16:01:09,147 - >>> Deployer is started
+INFO 2018-12-23 16:01:51,806 - >>> Deployer is started
+INFO 2018-12-23 16:02:54,880 - >>> Deployer is started
+INFO 2018-12-23 16:03:27,670 - >>> Deployer is started
+INFO 2018-12-23 16:04:23,789 - >>> Deployer is started
+INFO 2018-12-23 16:05:35,006 - >>> Deployer is started
+INFO 2018-12-23 16:19:17,818 - >>> Deployer is started
+INFO 2018-12-23 16:22:45,894 - >>> Deployer is started
+INFO 2018-12-23 16:27:50,426 - >>> Deployer is started
+INFO 2018-12-23 16:32:01,745 - >>> Deployer is started
+INFO 2018-12-23 16:35:00,758 - >>> Deployer is started
+INFO 2018-12-24 09:59:03,196 - >>> Deployer is started
+INFO 2018-12-24 09:59:35,696 - >>> Deployer is started
+INFO 2018-12-24 10:00:39,315 - >>> Deployer is started
+INFO 2018-12-24 10:01:18,016 - >>> Deployer is started
+INFO 2018-12-24 10:01:48,268 - >>> Deployer is started
+INFO 2018-12-24 10:02:19,836 - >>> Deployer is started
+INFO 2018-12-24 10:02:30,654 - >>> Deployer is started
+INFO 2018-12-24 10:02:54,303 - >>> Deployer is started
+INFO 2018-12-24 10:03:05,434 - >>> Deployer is started
+INFO 2018-12-24 10:03:41,942 - >>> Deployer is started
+INFO 2018-12-24 10:13:24,114 - >>> Deployer is started
+INFO 2018-12-24 10:37:15,083 - >>> Deployer is started
+INFO 2018-12-24 10:37:22,489 - >>> Deployer is started
+INFO 2018-12-24 11:42:21,863 - >>> Deployer is started
+INFO 2018-12-24 11:50:01,676 - >>> Deployer is started
+INFO 2018-12-24 11:50:06,499 - >>> Deployer is closed
+INFO 2018-12-24 11:51:40,573 - >>> Deployer is started
+INFO 2018-12-24 11:52:38,832 - >>> Deployer is started
+INFO 2018-12-24 11:52:46,508 - >>> Deployer is started
+INFO 2018-12-24 11:55:34,099 - >>> Deployer is started
+INFO 2018-12-24 11:57:38,961 - >>> Deployer is started
+INFO 2018-12-24 11:57:53,953 - >>> Deployer is started
+INFO 2018-12-24 11:58:31,164 - >>> Deployer is started
+INFO 2018-12-24 12:08:22,904 - >>> Deployer is started
+INFO 2018-12-24 12:09:39,251 - >>> Deployer is started
+INFO 2018-12-24 12:22:33,033 - >>> Deployer is started
+INFO 2018-12-24 12:22:49,098 - >>> Deployer is started
+INFO 2018-12-24 12:23:52,125 - >>> Deployer is started
+INFO 2018-12-24 12:24:05,668 - >>> Deployer is started
+INFO 2018-12-24 12:24:17,900 - >>> Deployer is started
+INFO 2018-12-24 12:25:36,612 - >>> Deployer is started
+INFO 2018-12-24 12:26:45,110 - >>> Deployer is started
+INFO 2018-12-24 12:26:51,551 - >>> Deployer is closed
+INFO 2018-12-24 12:27:02,319 - >>> Deployer is started
+INFO 2018-12-24 12:27:43,597 - >>> Deployer is started
+INFO 2018-12-24 12:28:29,594 - >>> Deployer is started
+INFO 2018-12-24 12:28:57,967 - >>> Deployer is started
+INFO 2018-12-24 12:30:03,224 - >>> Deployer is started
+INFO 2018-12-24 12:31:06,412 - >>> Deployer is started
+INFO 2018-12-24 12:31:31,839 - >>> Deployer is started
+INFO 2018-12-24 12:32:08,297 - >>> Deployer is started
+INFO 2018-12-24 12:32:43,263 - >>> Deployer is started
+INFO 2018-12-24 12:32:59,808 - >>> notepad++ opened a file .\scripts\drive_space_graph_inprogress.ps1
+INFO 2018-12-24 13:43:09,224 - >>> Deployer is started
+INFO 2018-12-24 13:49:39,633 - >>> Deployer is started
+INFO 2018-12-24 13:50:09,890 - >>> Deployer is started
+INFO 2018-12-24 15:16:50,525 - >>> Deployer is started
+INFO 2018-12-24 15:17:34,147 - >>> Deployer is started
+INFO 2018-12-24 15:20:27,909 - >>> Deployer is started
+INFO 2018-12-24 15:20:58,884 - >>> Deployer is started
+INFO 2018-12-24 15:21:21,247 - >>> Deployer is started
+INFO 2018-12-24 15:21:30,746 - >>> Deployer is started
+INFO 2018-12-24 15:21:34,587 - >>> Deployer is closed
+INFO 2018-12-24 15:21:53,813 - >>> Deployer is started
+INFO 2018-12-24 15:27:28,483 - >>> Deployer is started
+INFO 2018-12-24 15:29:09,915 - >>> Deployer is started
+INFO 2018-12-24 15:29:18,573 - >>> Deployer is started
+INFO 2018-12-24 15:30:11,594 - >>> Deployer is started
+INFO 2018-12-24 15:32:39,856 - >>> Deployer is started
+INFO 2018-12-24 15:33:20,298 - >>> Deployer is started
+INFO 2018-12-24 15:39:57,654 - >>> Deployer is started
+INFO 2018-12-24 15:44:07,270 - >>> Deployer is started
+INFO 2018-12-24 15:44:52,482 - >>> Deployer is started
+INFO 2018-12-24 15:45:30,880 - >>> Deployer is started
+INFO 2018-12-24 15:45:50,199 - >>> Deployer is started
+INFO 2018-12-24 15:46:21,885 - >>> Deployer is started
+INFO 2018-12-24 15:47:02,803 - >>> Deployer is started
+INFO 2018-12-24 15:52:57,066 - >>> Deployer is started
+INFO 2018-12-24 15:54:22,101 - >>> Deployer is started
+INFO 2018-12-24 16:10:51,543 - >>> Deployer is started
+INFO 2018-12-24 16:17:32,105 - >>> Deployer is started
+INFO 2018-12-24 16:23:25,509 - >>> Deployer is started
+INFO 2018-12-24 16:25:27,665 - >>> Deployer is started
+INFO 2018-12-24 16:27:19,015 - >>> Deployer is started
+INFO 2018-12-24 16:27:37,248 - >>> Deployer is started
+INFO 2018-12-24 16:30:18,034 - >>> Deployer is started
+INFO 2018-12-24 16:30:28,235 - >>> Deployer is started
+INFO 2018-12-24 16:31:16,013 - >>> Deployer is started
+INFO 2018-12-24 16:34:29,299 - >>> Deployer is started
+INFO 2018-12-24 16:38:52,240 - >>> Deployer is started
+INFO 2018-12-24 16:39:02,404 - >>> Deployer is started
+INFO 2018-12-24 16:39:10,390 - >>> Deployer is started
+INFO 2018-12-24 16:39:19,977 - >>> Deployer is started
+INFO 2018-12-24 16:41:48,397 - >>> Deployer is started
+INFO 2018-12-24 16:42:14,586 - >>> Deployer is started
+INFO 2018-12-24 16:44:42,863 - >>> Deployer is started
+INFO 2018-12-24 16:46:43,198 - >>> Deployer is started
+INFO 2018-12-24 16:47:28,351 - >>> Deployer is started
+INFO 2018-12-24 16:50:17,021 - >>> Deployer is started
+INFO 2018-12-24 16:50:36,649 - >>> Deployer is started
+INFO 2018-12-24 16:53:00,840 - >>> Deployer is started
+INFO 2018-12-24 16:56:37,447 - >>> Deployer is started
+INFO 2018-12-24 16:58:36,518 - >>> Deployer is started
+INFO 2018-12-24 17:00:52,830 - >>> Deployer is started
+INFO 2018-12-24 17:01:09,329 - >>> Deployer is started
+INFO 2018-12-24 17:01:40,693 - >>> Deployer is started
+INFO 2018-12-24 17:03:03,010 - >>> Deployer is started
+INFO 2018-12-24 17:06:53,347 - >>> Deployer is started
+INFO 2018-12-24 17:07:27,586 - >>> Deployer is started
+INFO 2018-12-24 17:16:06,608 - >>> Deployer is started
+INFO 2018-12-25 09:20:02,926 - >>> Deployer is started
+INFO 2018-12-25 10:18:07,496 - >>> Deployer is started
+INFO 2018-12-25 10:19:33,590 - >>> Deployer is started
+INFO 2018-12-25 10:20:16,442 - >>> Deployer is closed
+INFO 2018-12-25 10:21:20,720 - >>> Deployer is started
+INFO 2018-12-25 10:23:31,399 - >>> Deployer is started
+INFO 2018-12-25 10:33:39,849 - >>> Deployer is started
+INFO 2018-12-25 10:36:11,294 - >>> Deployer is started
+INFO 2018-12-25 10:36:33,220 - >>> Deployer is started
+INFO 2018-12-25 10:36:41,186 - >>> Deployer is started
+INFO 2018-12-25 10:37:17,602 - >>> Deployer is closed
+INFO 2018-12-25 10:38:35,691 - >>> Deployer is started
+INFO 2018-12-25 10:38:53,882 - >>> Deployer is started
+INFO 2018-12-25 10:43:54,436 - >>> Deployer is started
+INFO 2018-12-25 10:48:44,566 - >>> Deployer is started
+INFO 2018-12-25 11:40:27,531 - >>> Deployer is started
+INFO 2018-12-25 11:45:14,558 - >>> Deployer is started
+INFO 2018-12-25 11:46:40,621 - >>> Deployer is started
+INFO 2018-12-25 11:48:41,526 - >>> Deployer is started
+INFO 2018-12-25 11:52:33,298 - >>> Deployer is started
+INFO 2018-12-25 11:53:50,059 - >>> Deployer is started
+INFO 2018-12-25 11:57:32,017 - >>> Deployer is started
+INFO 2018-12-25 11:58:09,688 - >>> Deployer is started
+INFO 2018-12-25 12:02:02,086 - >>> Deployer is started
+INFO 2018-12-25 12:11:46,743 - >>> Deployer is started
+INFO 2018-12-25 12:12:30,792 - >>> Deployer is started
+INFO 2018-12-25 12:17:01,606 - >>> Deployer is started
+INFO 2018-12-25 12:20:41,548 - >>> Deployer is started
+INFO 2018-12-25 12:22:18,980 - >>> Deployer is started
+INFO 2018-12-25 12:25:50,999 - >>> Deployer is started
+INFO 2018-12-25 12:26:31,579 - >>> Deployer is started
+INFO 2018-12-25 12:26:48,607 - >>> selected file are not cmd or powershell script
+INFO 2018-12-25 12:27:44,945 - >>> Deployer is started
+INFO 2018-12-25 12:28:01,209 - >>> selected cmd file .\scripts\createFolder.bat
+INFO 2018-12-25 12:28:01,230 - >>> completed .\scripts\createFolder.bat
+INFO 2018-12-25 12:28:30,412 - >>> Deployer is started
+INFO 2018-12-25 12:30:14,658 - >>> selected file are not cmd or powershell script
+INFO 2018-12-25 12:30:41,344 - >>> selected cmd file .\scripts\createFolder.bat
+INFO 2018-12-25 12:30:41,365 - >>> completed .\scripts\createFolder.bat
+INFO 2018-12-25 12:31:06,522 - >>> Deployer is closed
+INFO 2018-12-25 12:31:10,201 - >>> Deployer is started
+INFO 2018-12-25 12:36:51,336 - >>> Deployer is started
+INFO 2018-12-25 12:37:01,599 - >>> selected cmd file .\scripts\createFolder.bat
+INFO 2018-12-25 12:37:01,617 - >>> completed .\scripts\createFolder.bat
+INFO 2018-12-25 12:39:54,877 - >>> notepad++ opened a file .\scripts\createFolder.bat
+INFO 2018-12-25 13:58:39,410 - >>> Deployer is started
+INFO 2018-12-25 15:08:57,761 - >>> Deployer is started
+INFO 2018-12-25 15:19:46,626 - >>> Deployer is started
+INFO 2018-12-25 15:20:16,465 - >>> Deployer is started
+INFO 2018-12-25 15:27:02,919 - >>> Deployer is started
+INFO 2018-12-25 15:27:24,310 - >>> Deployer is started
+INFO 2018-12-25 15:30:24,177 - >>> Deployer is started
+INFO 2018-12-25 15:30:48,031 - >>> Deployer is started
+INFO 2018-12-25 15:31:10,669 - >>> Deployer is started
+INFO 2018-12-25 15:31:42,624 - >>> Deployer is started
+INFO 2018-12-25 15:31:58,589 - >>> Deployer is started
+INFO 2018-12-25 15:32:51,813 - >>> Deployer is started
+INFO 2018-12-25 15:34:27,791 - >>> Deployer is started
+INFO 2018-12-25 15:37:30,582 - >>> Deployer is started
+INFO 2018-12-25 15:38:42,716 - >>> Deployer is started
+INFO 2018-12-25 15:39:58,748 - >>> Deployer is started
+INFO 2018-12-25 15:40:18,434 - >>> Deployer is started
+INFO 2018-12-25 15:46:39,592 - >>> Deployer is started
+INFO 2018-12-25 15:47:18,233 - >>> Deployer is started
+INFO 2018-12-25 15:49:41,407 - >>> Deployer is started
+INFO 2018-12-25 15:50:05,432 - >>> Deployer is started
+INFO 2018-12-25 15:50:55,119 - >>> Deployer is started
+INFO 2018-12-25 15:54:54,679 - >>> Deployer is started
+INFO 2018-12-25 16:01:45,602 - >>> Deployer is started
+INFO 2018-12-25 16:02:16,256 - >>> Deployer is started
+INFO 2018-12-25 16:02:36,779 - >>> Deployer is started
+INFO 2018-12-25 16:04:57,047 - >>> Deployer is started
+INFO 2018-12-25 16:06:14,342 - >>> Deployer is started
+INFO 2018-12-26 09:04:06,556 - >>> Deployer is started
+INFO 2018-12-26 09:04:34,484 - >>> Deployer is closed
+INFO 2018-12-26 09:47:32,487 - >>> Deployer is started
+INFO 2018-12-26 10:46:47,424 - >>> Deployer is started
+INFO 2018-12-26 10:47:06,134 - >>> Deployer is started
+INFO 2018-12-26 10:52:08,159 - >>> Deployer is started
+INFO 2018-12-26 11:12:25,611 - >>> Deployer is started
+INFO 2018-12-26 11:13:15,407 - >>> Deployer is started
+INFO 2018-12-26 11:21:44,444 - >>> Deployer is started
+INFO 2018-12-26 11:44:52,096 - >>> Deployer is started
+INFO 2018-12-26 11:45:26,165 - >>> Deployer is started
+INFO 2018-12-26 11:46:58,258 - >>> Deployer is started
+INFO 2018-12-26 11:50:47,715 - >>> Deployer is started
+INFO 2018-12-26 11:51:16,602 - >>> Deployer is started
+INFO 2018-12-26 11:52:18,450 - >>> Deployer is started
+INFO 2018-12-26 11:52:42,371 - >>> Deployer is closed
+INFO 2018-12-26 11:59:07,844 - >>> Deployer is started
+INFO 2018-12-26 13:53:25,514 - >>> Deployer is started
+INFO 2018-12-26 14:03:08,550 - >>> Deployer is started
+INFO 2018-12-26 14:04:05,487 - >>> Deployer is started
+INFO 2018-12-26 14:04:23,036 - >>> Deployer is started
+INFO 2018-12-26 14:07:22,710 - >>> Deployer is started
+INFO 2018-12-26 14:07:43,676 - >>> Deployer is started
+INFO 2018-12-26 14:29:48,129 - >>> Deployer is started
+INFO 2018-12-26 14:30:15,671 - >>> Deployer is started
+INFO 2018-12-26 14:33:01,636 - >>> Deployer is started
+INFO 2018-12-26 14:33:29,091 - >>> Deployer is started
+INFO 2018-12-26 14:34:29,677 - >>> Deployer is started
+INFO 2018-12-26 14:39:03,220 - >>> Deployer is started
+INFO 2018-12-26 14:40:40,055 - >>> Deployer is started
+INFO 2018-12-26 14:42:32,022 - >>> Deployer is started
+INFO 2018-12-26 14:43:15,172 - >>> Deployer is started
+INFO 2018-12-26 14:50:55,161 - >>> Deployer is started
+INFO 2018-12-26 15:41:55,977 - >>> Deployer is closed
+INFO 2018-12-26 15:41:58,889 - >>> Deployer is started
+INFO 2018-12-26 15:43:36,693 - >>> Deployer is closed
+INFO 2018-12-26 15:43:41,336 - >>> Deployer is started
+INFO 2018-12-26 15:44:40,978 - >>> Deployer is started
+INFO 2018-12-26 15:46:01,004 - >>> Deployer is started
+INFO 2018-12-26 15:57:15,702 - >>> Deployer is started
+INFO 2018-12-26 16:01:11,710 - >>> Deployer is started
+INFO 2018-12-26 16:02:36,236 - >>> Deployer is started
+INFO 2018-12-26 16:16:51,543 - >>> Deployer is started
+INFO 2018-12-26 16:17:50,637 - >>> Deployer is started
+INFO 2018-12-26 16:18:12,993 - >>> Deployer is started
+INFO 2018-12-26 16:20:34,987 - >>> Deployer is started
+INFO 2018-12-26 16:20:48,556 - >>> notepad++ opened a file .\scripts\createFolder.bat
+INFO 2018-12-26 16:21:10,565 - >>> notepad++ opened a file .\scripts\_BMC_Recon
+INFO 2018-12-26 16:21:53,712 - >>> Deployer is started
+INFO 2018-12-26 16:22:01,342 - >>> notepad++ opened a file .\scripts\_BMC_Recon
+INFO 2018-12-26 16:22:43,613 - >>> Deployer is started
+INFO 2018-12-26 16:22:52,332 - >>> notepad++ opened a file .\scripts\conn_test.ps1
+INFO 2018-12-26 16:22:58,971 - >>> notepad++ opened a file .\scripts\_BMC_Recon
+INFO 2018-12-26 16:23:37,195 - >>> Deployer is started
+INFO 2018-12-26 16:24:22,157 - >>> Deployer is started
+INFO 2018-12-26 16:24:26,794 - >>> notepad++ opened a file .\scripts\CPU_speed2.cmd
+INFO 2018-12-26 16:24:31,491 - >>> notepad++ opened a file .\scripts\createFolder.bat
+INFO 2018-12-26 16:25:53,666 - >>> Deployer is started
+INFO 2018-12-26 16:25:58,583 - >>> notepad++ opened a file .\scripts\CPU_speed2.cmd
+INFO 2018-12-26 16:26:04,404 - >>> notepad++ opened a file .\scripts\conn_test.ps1
+INFO 2018-12-26 16:28:23,383 - >>> Deployer is started
+INFO 2018-12-26 16:28:30,840 - >>> notepad++ opened a file .\scripts\createFolder.bat
+INFO 2018-12-26 16:30:18,197 - >>> Deployer is closed
+INFO 2018-12-26 16:30:21,303 - >>> Deployer is started
+INFO 2018-12-26 16:30:28,572 - >>> notepad++ opened a file .\scripts\CPU_speed2.cmd
+INFO 2018-12-26 16:35:34,428 - >>> Deployer is started
+INFO 2018-12-26 16:35:39,705 - >>> notepad++ opened a file .\scripts\CPU_speed2.cmd
+INFO 2018-12-26 16:36:03,057 - >>> Deployer is started
+INFO 2018-12-26 16:36:18,336 - >>> Deployer is closed
+INFO 2018-12-26 16:36:20,812 - >>> Deployer is started
+INFO 2018-12-26 16:36:30,629 - >>> notepad++ opened a file .\scripts\conn_test.ps1
+INFO 2018-12-26 16:39:06,477 - >>> Deployer is started
+INFO 2018-12-26 16:39:14,701 - >>> notepad++ opened a file .\scripts\CPU_speed2.cmd
+INFO 2018-12-26 16:39:35,779 - >>> Deployer is started
+INFO 2018-12-26 16:39:41,972 - >>> notepad++ opened a file .\scripts\createFolder.bat
+INFO 2018-12-26 16:40:14,588 - >>> Deployer is started
+INFO 2018-12-26 16:40:20,357 - >>> notepad++ opened a file .\scripts\conn_test.ps1
+INFO 2018-12-26 16:41:47,693 - >>> Deployer is started
+INFO 2018-12-26 16:43:39,570 - >>> Deployer is started
+INFO 2018-12-26 16:44:45,398 - >>> Deployer is started
+INFO 2018-12-26 16:44:53,730 - >>> notepad++ opened a file .\scripts\createFolder.bat
+INFO 2018-12-26 16:45:01,815 - >>> notepad++ opened a file .\scripts\CPU_speed2.cmd
+INFO 2018-12-26 16:47:21,489 - >>> Deployer is started
+INFO 2018-12-26 16:47:42,573 - >>> Deployer is started
+INFO 2018-12-26 16:47:45,717 - >>> notepad++ opened a file .\scripts\CPU_speed2.cmd
+INFO 2018-12-26 16:47:49,576 - >>> notepad++ opened a file .\scripts\createFolder.bat
+INFO 2018-12-26 16:47:53,223 - >>> notepad++ opened a file .\scripts\Readme.txt
+INFO 2018-12-26 16:49:36,357 - >>> Deployer is started
+INFO 2018-12-26 16:49:52,924 - >>> notepad++ opened a file .\scripts\CPU_speed2.cmd
+INFO 2018-12-26 16:49:57,315 - >>> notepad++ opened a file .\scripts\createFolder.bat
+INFO 2018-12-26 16:50:00,991 - >>> notepad++ opened a file .\scripts\Readme.txt
+INFO 2018-12-26 16:50:06,529 - >>> notepad++ opened a file .\scripts\Readme.txt
+INFO 2018-12-26 16:50:37,154 - >>> Deployer is started
+INFO 2018-12-26 16:51:20,543 - >>> Deployer is started
+INFO 2018-12-26 16:51:29,021 - >>> notepad++ opened a file .\scripts\Readme.txt
+INFO 2018-12-26 17:03:20,419 - >>> Deployer is started
+INFO 2018-12-26 17:03:36,596 - >>> notepad++ opened a file .\scripts\Readme.txt
+INFO 2018-12-26 17:03:48,998 - >>> Deployer is started
+INFO 2018-12-26 17:03:52,619 - >>> notepad++ opened a file .\scripts\CPU_speed2.cmd
+INFO 2018-12-26 17:04:06,080 - >>> notepad++ opened a file .\scripts\fgc_list.txt
+INFO 2018-12-26 17:04:32,582 - >>> notepad++ opened a file .\scripts\diskspace_asjob.ps1
+INFO 2018-12-26 17:05:46,686 - >>> Deployer is started
+INFO 2018-12-26 17:07:52,532 - >>> Deployer is started
+INFO 2018-12-26 17:09:09,382 - >>> Deployer is started
+INFO 2018-12-26 17:10:16,817 - >>> notepad++ opened a file .\scripts\Readme.txt
+INFO 2018-12-26 17:10:29,603 - >>> notepad++ opened a file .\scripts\conn_test.ps1
+INFO 2018-12-26 17:10:34,827 - >>> notepad++ opened a file .\scripts\fgc_list.txt
+INFO 2018-12-26 17:11:26,927 - >>> Deployer is started
+INFO 2018-12-26 17:11:34,828 - >>> notepad++ opened a file .\scripts\fgc_list.txt
+INFO 2018-12-26 17:11:41,657 - >>> notepad++ opened a file .\scripts\fgc_list.txt
+INFO 2018-12-26 17:12:33,504 - >>> Deployer is started
+INFO 2018-12-26 17:12:46,433 - >>> notepad++ opened a file .\scripts\fgc_list.txt
+INFO 2018-12-26 17:12:55,416 - >>> notepad++ opened a file .\scripts\fgc_list.txt
+INFO 2018-12-26 17:13:06,510 - >>> Deployer is closed
+INFO 2018-12-27 10:06:08,554 - >>> Deployer is started
+INFO 2018-12-27 10:10:21,962 - >>> Deployer is started
+INFO 2018-12-27 10:10:51,135 - >>> Deployer is started
+INFO 2018-12-27 10:11:27,888 - >>> Deployer is started
+INFO 2018-12-27 10:11:34,074 - >>> notepad++ opened a file .\scripts\fgc_list.txt
+INFO 2018-12-27 10:11:48,167 - >>> notepad++ opened a file .\scripts\deploy_ikvm.cmd
+INFO 2018-12-27 10:33:19,529 - >>> Deployer is started
+INFO 2018-12-27 10:40:34,513 - >>> Deployer is started
+INFO 2018-12-27 10:46:21,991 - >>> Deployer is started
+INFO 2018-12-27 10:52:09,861 - >>> Deployer is started
+INFO 2018-12-27 14:02:28,231 - >>> Deployer is started
+INFO 2018-12-27 14:03:06,207 - >>> Deployer is started
+INFO 2018-12-27 14:03:40,265 - >>> Deployer is started
+INFO 2018-12-27 14:26:23,802 - >>> Deployer is started
+INFO 2018-12-27 14:27:07,764 - >>> Deployer is started
+INFO 2018-12-27 14:29:40,748 - >>> Deployer is started
+INFO 2018-12-27 14:31:25,682 - >>> Deployer is started
+INFO 2018-12-27 14:31:52,099 - >>> notepad++ opened a file .\scripts\createFolder.bat
+INFO 2018-12-27 14:32:19,167 - >>> selected cmd file .\scripts\createFolder.bat
+INFO 2018-12-27 14:32:19,194 - >>> completed .\scripts\createFolder.bat
+INFO 2018-12-27 14:33:37,830 - >>> selected cmd file .\scripts\createFolder.bat
+INFO 2018-12-27 14:33:37,861 - >>> completed .\scripts\createFolder.bat
+INFO 2018-12-27 14:39:22,923 - >>> Deployer is started
+INFO 2018-12-27 14:39:34,811 - >>> selected cmd file .\scripts\createFolder.bat
+INFO 2018-12-27 14:39:34,849 - >>> completed .\scripts\createFolder.bat
+INFO 2018-12-27 14:39:53,902 - >>> Deployer is closed
+INFO 2018-12-27 14:39:57,672 - >>> Deployer is started
+INFO 2018-12-27 14:40:09,455 - >>> selected cmd file .\scripts\createFolder.bat
+INFO 2018-12-27 14:40:09,490 - >>> completed .\scripts\createFolder.bat
+INFO 2018-12-27 14:40:40,074 - >>> Deployer is started
+INFO 2018-12-27 14:40:49,878 - >>> selected cmd file .\scripts\createFolder.bat
+INFO 2018-12-27 14:40:49,915 - >>> completed .\scripts\createFolder.bat
+INFO 2018-12-27 14:44:15,010 - >>> Deployer is started
+INFO 2018-12-27 14:44:36,987 - >>> selected cmd file .\scripts\createFolder.bat
+INFO 2018-12-27 14:44:37,024 - >>> completed .\scripts\createFolder.bat
+INFO 2018-12-27 14:45:17,718 - >>> Deployer is started
+INFO 2018-12-27 14:45:30,857 - >>> selected cmd file .\scripts\createFolder.bat
+INFO 2018-12-27 14:45:30,889 - >>> completed .\scripts\createFolder.bat
+INFO 2018-12-27 14:58:24,498 - >>> Deployer is started
+INFO 2018-12-27 14:59:48,983 - >>> Deployer is started
+INFO 2018-12-27 15:00:25,964 - >>> Deployer is started
+INFO 2018-12-30 16:05:33,979 - >>> Deployer is started
+INFO 2018-12-30 16:31:14,352 - >>> Deployer is started
+INFO 2018-12-30 16:32:02,329 - >>> Deployer is started
+INFO 2018-12-30 16:35:20,752 - >>> Deployer is started
+INFO 2018-12-30 16:39:32,293 - >>> Deployer is started
+INFO 2018-12-30 16:43:08,385 - >>> Deployer is started
+INFO 2018-12-30 16:44:43,699 - >>> Deployer is started
+INFO 2018-12-30 16:45:18,193 - >>> Deployer is closed
+INFO 2018-12-30 16:46:11,567 - >>> Deployer is started
+INFO 2018-12-30 16:47:10,944 - >>> Deployer is started
+INFO 2018-12-30 16:48:58,229 - >>> Deployer is started
+INFO 2018-12-30 16:49:28,744 - >>> Deployer is closed
+INFO 2018-12-30 16:49:32,114 - >>> Deployer is started
+INFO 2018-12-30 16:49:43,194 - >>> Deployer is started
+INFO 2018-12-30 16:50:14,787 - >>> Deployer is started
+INFO 2018-12-30 16:53:29,185 - >>> Deployer is started
+INFO 2018-12-30 16:56:16,399 - >>> Deployer is closed
+INFO 2018-12-30 17:00:22,905 - >>> Deployer is started
+INFO 2018-12-30 17:00:43,095 - >>> Deployer is started
+INFO 2018-12-30 17:02:29,537 - >>> Deployer is started
+INFO 2018-12-30 17:10:08,754 - >>> Deployer is started
+INFO 2018-12-30 17:12:06,623 - >>> Deployer is started
+INFO 2018-12-30 17:15:40,192 - >>> Deployer is started
+INFO 2018-12-30 17:16:01,708 - >>> Deployer is started
+INFO 2018-12-30 17:16:21,584 - >>> Deployer is started
+INFO 2018-12-30 17:16:30,610 - >>> Deployer is started
+INFO 2018-12-30 17:16:44,408 - >>> Deployer is started
+INFO 2018-12-30 17:16:59,714 - >>> Deployer is started
+INFO 2018-12-30 17:17:18,105 - >>> Deployer is started
+INFO 2018-12-30 17:18:51,645 - >>> Deployer is started
+INFO 2018-12-30 17:19:22,073 - >>> Deployer is started
+INFO 2018-12-30 17:21:01,645 - >>> Deployer is started
+INFO 2018-12-30 17:23:20,759 - >>> Deployer is closed
+INFO 2018-12-30 17:23:36,396 - >>> Deployer is started
+INFO 2018-12-30 17:23:56,598 - >>> Deployer is started
+INFO 2018-12-30 17:26:33,024 - >>> Deployer is started
+INFO 2018-12-30 17:26:43,869 - >>> Deployer is started
+INFO 2019-01-02 11:57:51,558 - >>> Deployer is started
+INFO 2019-01-02 12:00:01,629 - >>> Deployer is started
+INFO 2019-01-02 12:01:01,001 - >>> Deployer is started
+INFO 2019-01-02 12:01:20,505 - >>> Deployer is started
+INFO 2019-01-02 12:01:28,527 - >>> Deployer is closed
+INFO 2019-01-02 12:01:37,280 - >>> Deployer is started
+INFO 2019-01-02 12:02:09,668 - >>> Deployer is started
+INFO 2019-01-02 12:04:45,696 - >>> Deployer is started
+INFO 2019-01-02 12:05:37,791 - >>> Deployer is started
+INFO 2019-01-02 12:05:48,271 - >>> Deployer is closed
+INFO 2019-01-02 12:06:02,344 - >>> Deployer is started
+INFO 2019-01-02 12:06:14,378 - >>> Deployer is closed
+INFO 2019-01-02 12:07:30,940 - >>> Deployer is started
+INFO 2019-01-02 12:08:56,055 - >>> Deployer is started
+INFO 2019-01-02 12:11:56,109 - >>> Deployer is started
+INFO 2019-01-02 12:14:10,159 - >>> Deployer is started
+INFO 2019-01-02 12:14:37,262 - >>> selected cmd file .\scripts\createFolder.bat
+INFO 2019-01-02 12:14:37,294 - >>> completed .\scripts\createFolder.bat
+INFO 2019-01-02 12:15:23,615 - >>> Deployer is closed
+INFO 2019-01-02 12:25:31,647 - >>> Deployer is started
+INFO 2019-01-02 12:25:44,887 - >>> Deployer is closed
+INFO 2019-01-02 12:33:22,991 - >>> Deployer is started
+INFO 2019-01-02 12:34:45,515 - >>> Deployer is closed
+INFO 2019-01-02 12:39:50,332 - >>> Deployer is started
+INFO 2019-01-02 12:44:59,420 - >>> Deployer is started
+INFO 2019-01-02 12:51:13,983 - >>> Deployer is started
+INFO 2019-01-02 12:51:43,866 - >>> Deployer is started
+INFO 2019-01-02 12:54:03,703 - >>> Deployer is started
+INFO 2019-01-02 12:54:40,906 - >>> Deployer is started
+INFO 2019-01-02 12:56:18,884 - >>> Deployer is started
+INFO 2019-01-02 12:57:28,698 - >>> Deployer is started
+INFO 2019-01-02 12:57:54,319 - >>> Deployer is started
+INFO 2019-01-02 13:00:36,258 - >>> Deployer is started
+INFO 2019-01-02 13:04:14,032 - >>> Deployer is started
+INFO 2019-01-02 13:07:38,198 - >>> Deployer is started
+INFO 2019-01-02 13:09:42,917 - >>> Deployer is started
+INFO 2019-01-02 13:11:59,452 - >>> Deployer is started
+INFO 2019-01-02 13:12:23,305 - >>> Deployer is started
+INFO 2019-01-02 14:29:05,080 - >>> Deployer is started
+INFO 2019-01-02 14:45:12,561 - >>> Deployer is started
+INFO 2019-01-02 14:48:41,484 - >>> Deployer is started
+INFO 2019-01-02 14:50:36,461 - >>> Deployer is started
+INFO 2019-01-02 14:52:47,469 - >>> Deployer is started
+INFO 2019-01-02 14:54:24,310 - >>> Deployer is started
+INFO 2019-01-02 14:55:06,219 - >>> Deployer is started
+INFO 2019-01-02 14:55:42,245 - >>> Deployer is started
+INFO 2019-01-02 14:56:08,118 - >>> Deployer is started
+INFO 2019-01-02 15:00:23,428 - >>> Deployer is started
+INFO 2019-01-02 15:01:17,225 - >>> Deployer is started
+INFO 2019-01-02 15:01:53,253 - >>> Deployer is started
+INFO 2019-01-02 15:02:48,479 - >>> Deployer is closed
+INFO 2019-01-02 15:02:54,025 - >>> Deployer is started
+INFO 2019-01-02 15:03:49,709 - >>> Deployer is started
+INFO 2019-01-02 15:06:31,551 - >>> Deployer is started
+INFO 2019-01-02 15:11:13,578 - >>> Deployer is started
+INFO 2019-01-02 15:11:43,452 - >>> selected cmd file .\scripts\createFolder.bat
+INFO 2019-01-02 15:11:43,485 - >>> completed .\scripts\createFolder.bat
+INFO 2019-01-02 15:12:40,714 - >>> Deployer is closed
+INFO 2019-01-02 15:13:28,548 - >>> Deployer is started
+INFO 2019-01-02 15:14:59,633 - >>> Deployer is started
+INFO 2019-01-02 15:19:02,008 - >>> Deployer is started
+INFO 2019-01-02 15:19:10,839 - >>> Deployer is started
+INFO 2019-01-02 15:19:34,377 - >>> Deployer is started
+INFO 2019-01-02 15:20:38,806 - >>> Deployer is started
+INFO 2019-01-02 15:22:01,587 - >>> Deployer is started
+INFO 2019-01-02 15:22:09,655 - >>> Deployer is started
+INFO 2019-01-02 15:24:04,061 - >>> Deployer is started
+INFO 2019-01-02 15:24:12,725 - >>> Deployer is started
+INFO 2019-01-02 15:29:14,480 - >>> Deployer is started
+INFO 2019-01-02 15:32:58,094 - >>> Deployer is started
+INFO 2019-01-02 15:38:33,495 - >>> Deployer is started
+INFO 2019-01-02 15:39:33,435 - >>> Deployer is started
+INFO 2019-01-02 15:42:23,109 - >>> Deployer is started
+INFO 2019-01-02 15:43:31,763 - >>> Deployer is started
+INFO 2019-01-02 15:48:15,046 - >>> Deployer is started
+INFO 2019-01-02 15:49:08,743 - >>> Deployer is started
+INFO 2019-01-02 15:51:02,681 - >>> Deployer is started
+INFO 2019-01-02 15:51:50,368 - >>> Deployer is started
+INFO 2019-01-02 15:52:27,821 - >>> Deployer is started
+INFO 2019-01-02 15:52:58,071 - >>> Deployer is started
+INFO 2019-01-02 15:53:31,214 - >>> Deployer is started
+INFO 2019-01-02 15:54:22,302 - >>> Deployer is closed
+INFO 2019-01-02 15:54:25,306 - >>> Deployer is started
+INFO 2019-01-02 15:56:04,626 - >>> Deployer is started
+INFO 2019-01-02 15:57:11,445 - >>> Deployer is started
+INFO 2019-01-02 15:58:16,730 - >>> Deployer is started
+INFO 2019-01-02 16:04:43,099 - >>> Deployer is started
+INFO 2019-01-02 16:05:11,916 - >>> Deployer is started
+INFO 2019-01-02 16:08:51,659 - >>> Deployer is started
+INFO 2019-01-02 16:09:51,855 - >>> Deployer is started
+INFO 2019-01-02 16:13:44,673 - >>> Deployer is started
+INFO 2019-01-02 16:17:38,509 - >>> Deployer is started
+INFO 2019-01-02 16:18:13,120 - >>> Deployer is started
+INFO 2019-01-02 16:18:48,482 - >>> Deployer is started
+INFO 2019-01-02 16:19:56,975 - >>> Deployer is started
+INFO 2019-01-02 16:20:44,999 - >>> Deployer is started
+INFO 2019-01-02 16:21:11,893 - >>> Deployer is started
+INFO 2019-01-02 16:21:57,751 - >>> Deployer is started
+INFO 2019-01-02 16:22:25,268 - >>> Deployer is started
+INFO 2019-01-02 16:23:44,349 - >>> Deployer is started
+INFO 2019-01-02 16:25:02,863 - >>> Deployer is started
+INFO 2019-01-02 16:26:50,387 - >>> Deployer is started
+INFO 2019-01-03 08:59:47,644 - >>> Deployer is started
+INFO 2019-01-03 12:06:47,514 - >>> Deployer is started
+INFO 2019-01-03 12:08:07,328 - >>> Deployer is started
+INFO 2019-01-03 12:10:11,192 - >>> Deployer is closed
+INFO 2019-01-03 12:10:18,869 - >>> Deployer is started
+INFO 2019-01-03 12:15:02,495 - >>> Deployer is started
+INFO 2019-01-03 12:18:18,308 - >>> Deployer is started
+INFO 2019-01-03 12:18:46,279 - >>> Deployer is closed
+INFO 2019-01-03 14:00:15,868 - >>> Deployer is started
+INFO 2019-01-03 14:08:17,468 - >>> Deployer is started
+INFO 2019-01-03 14:08:45,233 - >>> Deployer is started
+INFO 2019-01-03 14:17:38,194 - >>> Deployer is started
+INFO 2019-01-03 14:18:46,864 - >>> Deployer is started
+INFO 2019-01-03 14:29:25,382 - >>> Deployer is started
+INFO 2019-01-03 14:31:53,185 - >>> Deployer is started
+INFO 2019-01-03 14:32:29,169 - >>> Deployer is started
+INFO 2019-01-03 14:32:41,519 - >>> Deployer is closed
+INFO 2019-01-03 14:32:50,389 - >>> Deployer is started
+INFO 2019-01-03 14:33:10,794 - >>> Deployer is started
+INFO 2019-01-03 14:33:36,665 - >>> Deployer is started
+INFO 2019-01-03 14:33:50,816 - >>> Deployer is started
+INFO 2019-01-03 14:34:20,335 - >>> Deployer is closed
+INFO 2019-01-03 14:34:30,067 - >>> Deployer is started
+INFO 2019-01-03 14:34:45,178 - >>> Deployer is closed
+INFO 2019-01-03 14:36:06,186 - >>> Deployer is started
+INFO 2019-01-03 14:39:12,220 - >>> Deployer is started
+INFO 2019-01-03 14:40:46,318 - >>> Deployer is started
+INFO 2019-01-03 16:47:47,045 - >>> Deployer is started
+INFO 2019-01-03 16:51:03,440 - >>> Deployer is started
+INFO 2019-01-03 16:51:11,287 - >>> Deployer is started
+INFO 2019-01-03 16:51:38,730 - >>> Deployer is started
+INFO 2019-01-03 16:52:15,799 - >>> Deployer is started
+INFO 2019-01-03 16:52:47,538 - >>> Deployer is started
+INFO 2019-01-03 16:54:06,163 - >>> Deployer is started
+INFO 2019-01-03 16:54:21,890 - >>> Deployer is started
+INFO 2019-01-03 16:54:58,624 - >>> Deployer is started
+INFO 2019-01-03 16:57:05,978 - >>> Deployer is started
+INFO 2019-01-03 16:57:14,675 - >>> Deployer is closed
+INFO 2019-01-03 16:57:27,043 - >>> Deployer is started
+INFO 2019-01-03 16:58:14,242 - >>> Deployer is closed
+INFO 2019-01-03 17:05:47,889 - >>> Deployer is started
+INFO 2019-01-03 17:05:56,949 - >>> Deployer is closed
+INFO 2019-01-03 17:06:04,683 - >>> Deployer is started
+INFO 2019-01-03 17:07:44,180 - >>> Deployer is started
+INFO 2019-01-06 09:55:57,467 - >>> Deployer is started
+INFO 2019-01-06 09:56:20,375 - >>> Deployer is started
+INFO 2019-01-06 09:57:13,339 - >>> Deployer is started
+INFO 2019-01-06 10:39:05,580 - >>> Deployer is closed
+INFO 2019-01-08 16:25:19,329 - >>> Deployer is started
+INFO 2019-01-08 16:25:48,965 - >>> Deployer is closed
+INFO 2019-01-09 16:17:43,097 - >>> Deployer is started
+INFO 2019-01-09 16:18:06,269 - >>> notepad++ opened a file .\scripts\CPU_speed2.cmd
+INFO 2019-01-10 15:03:04,912 - >>> Deployer is started
+INFO 2019-01-10 15:08:00,672 - >>> Deployer is closed
+INFO 2019-01-15 14:30:13,366 - >>> Deployer is started
+INFO 2019-01-17 12:01:44,845 - >>> Deployer is started
+INFO 2019-01-17 12:05:04,372 - >>> Deployer is started
+INFO 2019-01-17 12:05:39,956 - >>> Deployer is started
+INFO 2019-01-17 12:06:49,096 - >>> Deployer is started
+INFO 2019-01-17 12:08:08,103 - >>> Deployer is started
+INFO 2019-01-17 12:12:58,702 - >>> Deployer is started
+INFO 2019-01-23 09:42:52,269 - >>> Deployer is started
+INFO 2019-01-23 09:43:26,288 - >>> Deployer is started
+INFO 2019-01-27 16:08:21,861 - >>> Deployer is started
+INFO 2019-01-27 16:08:55,362 - >>> Deployer is started
+INFO 2019-01-29 13:01:06,919 - >>> Deployer is started
+INFO 2019-02-11 16:08:55,064 - >>> Deployer is started
+INFO 2019-03-04 09:39:22,908 - >>> Deployer is started
+INFO 2019-03-04 09:40:18,318 - >>> Deployer is started
+INFO 2019-03-04 09:40:35,409 - >>> Deployer is closed
+INFO 2019-03-04 09:40:42,096 - >>> Deployer is started
+INFO 2019-03-04 09:44:25,754 - >>> Deployer is closed
+INFO 2019-03-04 10:08:41,775 - >>> Deployer is started
+INFO 2019-03-04 14:04:25,366 - >>> Deployer is closed
+INFO 2019-03-13 11:17:44,634 - >>> Deployer is started
+INFO 2019-03-13 11:18:11,980 - >>> Deployer is closed
+INFO 2019-03-13 11:18:40,272 - >>> Deployer is started
+INFO 2019-03-13 11:18:59,979 - >>> Deployer is closed
+INFO 2019-05-21 12:38:52,219 - >>> Deployer is started
+INFO 2019-05-21 12:41:34,846 - >>> Deployer is closed
+INFO 2019-05-21 12:41:40,285 - >>> Deployer is started
+INFO 2019-05-21 13:14:55,357 - >>> Deployer is started
+INFO 2019-05-21 13:15:04,856 - >>> notepad++ opened a file .\scripts\CPU_speed2.cmd
+INFO 2019-05-21 14:17:57,901 - >>> Deployer is started
+INFO 2019-05-21 14:18:07,813 - >>> Deployer is closed
+INFO 2019-05-21 14:18:14,655 - >>> Deployer is started
+INFO 2019-05-21 14:18:34,747 - >>> Deployer is closed
+INFO 2019-05-21 14:19:01,590 - >>> Deployer is started
+INFO 2019-05-21 14:19:10,802 - >>> notepad++ opened a file .\scripts\DesktopIcons.ps1
+INFO 2019-05-22 14:52:18,776 - >>> Deployer is closed
+INFO 2019-05-26 10:48:03,881 - >>> Deployer is started
+INFO 2019-05-26 16:25:50,846 - >>> Deployer is started
+INFO 2019-05-26 16:25:55,953 - >>> Deployer is closed
+INFO 2019-05-27 09:54:44,906 - >>> Deployer is started
+INFO 2019-05-27 09:55:43,760 - >>> Deployer is closed
+INFO 2019-05-27 13:02:09,834 - >>> Deployer is started
+INFO 2019-05-27 13:04:29,680 - >>> Deployer is started
+INFO 2019-05-27 13:11:53,124 - >>> Deployer is started
+INFO 2019-05-27 13:13:49,406 - >>> Deployer is started
+INFO 2019-05-27 13:15:11,699 - >>> Deployer is started
+INFO 2019-05-27 13:17:26,343 - >>> Deployer is started
+INFO 2019-05-27 13:17:44,937 - >>> Deployer is started
+INFO 2019-05-27 13:18:14,407 - >>> Deployer is started
+INFO 2019-05-27 13:18:29,648 - >>> Deployer is started
+INFO 2019-05-27 13:32:14,415 - >>> Deployer is started
+INFO 2019-05-27 13:34:18,008 - >>> Deployer is started
+INFO 2019-05-27 13:34:37,459 - >>> Deployer is started
+INFO 2019-05-27 13:39:26,424 - >>> Deployer is started
+INFO 2019-05-27 13:40:32,555 - >>> Deployer is closed
+INFO 2019-05-27 13:46:01,886 - >>> Deployer is started
+INFO 2019-05-27 13:48:07,428 - >>> Deployer is started
+INFO 2019-05-27 13:48:27,878 - >>> Deployer is started
+INFO 2019-05-27 13:48:45,079 - >>> Deployer is started
+INFO 2019-05-27 13:49:40,194 - >>> Deployer is started
+INFO 2019-05-27 13:50:01,865 - >>> Deployer is closed
+INFO 2019-05-27 13:56:27,286 - >>> Deployer is started
+INFO 2019-05-27 13:56:43,435 - >>> Deployer is closed
+INFO 2019-05-27 13:57:09,255 - >>> Deployer is started
+INFO 2019-05-27 13:57:35,441 - >>> Deployer is started
+INFO 2019-05-27 13:59:24,994 - >>> Deployer is started
+INFO 2019-05-27 14:04:05,837 - >>> Deployer is started
+INFO 2019-05-27 14:04:15,120 - >>> Deployer is closed
+INFO 2019-05-27 14:14:49,973 - >>> Deployer is started
+INFO 2019-05-27 14:15:28,719 - >>> notepad opened a file .\scripts\CPU_speed2.cmd be aware notepad++ is missing
+INFO 2019-05-27 14:15:34,373 - >>> notepad opened a file .\scripts\del_net_profile.cmd be aware notepad++ is missing
+INFO 2019-05-27 14:20:54,426 - >>> Deployer is started
+INFO 2019-05-27 14:21:01,743 - >>> notepad opened a file .\scripts\del_net_profile.cmd be aware notepad++ is missing
+INFO 2019-05-27 14:21:07,968 - >>> notepad opened a file .\scripts\diskspace_asjob.ps1 be aware notepad++ is missing
+INFO 2019-05-27 14:22:33,794 - >>> Deployer is started
+INFO 2019-05-27 14:22:41,286 - >>> notepad++86 opened a file .\scripts\createFolder.bat
+INFO 2019-05-27 14:22:46,651 - >>> Deployer is closed
+INFO 2019-05-28 12:20:53,002 - >>> Deployer is started
+INFO 2019-07-18 16:02:13,715 - >>> Deployer is started
+INFO 2019-07-18 16:02:32,967 - >>> notepad++86 opened a file .\scripts\del_net_profile.cmd
+INFO 2019-09-09 14:42:23,441 - >>> Deployer is started
+INFO 2019-09-09 15:15:35,277 - >>> Deployer is started
+INFO 2019-09-10 16:38:23,251 - >>> Deployer is started

@@ -1,0 +1,1 @@
+wmic cpu get name,CurrentClockSpeed,MaxClockSpeed /every:3

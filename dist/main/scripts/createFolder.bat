@@ -1,0 +1,2 @@
+mkdir scripts\alexxxxxxxx
+mkdir scripts\alexxxxxxxx2

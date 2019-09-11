@@ -1,0 +1,58 @@
+import subprocess
+
+def execute(command):
+    process = subprocess.Popen(command, shell=True, stdout=subprocess.PIPE, stderr=subprocess.STDOUT)
+    output = ''
+
+    # Poll process for new output until finished
+    for line in iter(process.stdout.readline, ""):
+        print line,
+        output += line
+
+
+    process.wait()
+    exitCode = process.returncode
+
+    if (exitCode == 0):
+        return output
+    else:
+        raise Exception(command, exitCode, output)
+
+execute(['ping', 'localhost'])
+
+
+
+
+'''
+        if scriptSuffix == 'ps1':
+            print("running PS1 installation : " + self.selectedScript)
+            logger.info(">>> selected powershell file " + self.selectedScript)
+            #TODO need to be replaced with function executionScripts:
+            generatePowershell = subprocess.Popen([r'C:\WINDOWS\system32\WindowsPowerShell\v1.0\powershell.exe',
+                                         '-ExecutionPolicy',
+                                         'Unrestricted',
+                                         self.selectedScript], cwd=os.getcwd())
+            result = generatePowershell.wait()
+            #TODO up till here function
+            print("running code in powershell: ")
+            logger.info(">>> completed " + self.selectedScript)
+            print(result)
+        elif scriptSuffix == 'cmd' or scriptSuffix == 'bat':# check if its dos file BAT ?
+            print("running batch installation : " + self.selectedScript)
+            logger.info(">>> selected cmd file " + self.selectedScript)
+            output = subprocess.Popen(self.selectedScript, shell=True, stdout=subprocess.PIPE, stderr=subprocess.STDOUT)
+
+            # print("1 : " + out.readlines())
+            # print("2 : " + error.readlines())
+            # p = subprocess.Popen(["cmd /K",self.selectedScript], bufsize=2048, shell=True,
+            #                      stdin=subprocess.PIPE, stdout=subprocess.PIPE, close_fds=True)
+            # p.wait()
+            # result_str = p.stdout.read()
+            # print(result_str)
+
+            print("running bat files is completed")
+            logger.info(">>> completed " + self.selectedScript)
+        else:
+            QMessageBox.warning(self, "Warning", "Error! Can not execute this file \n" + self.selectedScript)
+            logger.info(">>> selected file are not cmd or powershell script")
+'''
